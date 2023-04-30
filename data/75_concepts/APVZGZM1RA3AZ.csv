@@ -1,0 +1,58 @@
+topword,middleword,bottomword,chosenword,percentage,trial_type,question,response,rt,session,points,trialnum,datetime
+,,,,,demographic,automatic user agent check,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.76",,1,0,,2023-01-10T17:32:21.805Z
+a lizard,to sit,a zebra,a lizard,,trial,,,6531,1,0,2,2023-01-10T17:33:03.176Z
+to sit,a lizard,a nest,to sit,,trial,,,6916.700000017881,1,1,3,2023-01-10T17:33:10.092Z
+grief,child,gentle,,0,feedback,,,5087.300000011921,1,2,4,2023-01-10T17:33:29.117Z
+,,,,,demographic,what is your age?,64,4271.5,1,2,,2023-01-10T17:33:43.655Z
+ripe,a lizard,an elephant,an elephant,,trial,,,5519.4000000059605,1,2,5,2023-01-10T17:33:49.176Z
+to lay,an elephant,a lizard,a lizard,,trial,,,5751.299999982119,1,12,6,2023-01-10T17:33:54.927Z
+caribou,beaver,alligator,,100,feedback,,,6683.699999988079,1,22,7,2023-01-10T17:34:01.615Z
+,,,,,demographic,what is your gender?,female,3014.800000011921,1,29,,2023-01-10T17:34:11.302Z
+to carry,to dance,a chicken,to carry,,trial,,,5582.600000023842,1,29,8,2023-01-10T17:34:16.886Z
+to dance,to carry,last,to dance,,trial,,,6535.299999982119,1,30,9,2023-01-10T17:34:23.421Z
+purple,source,word,,0,feedback,,,8560.199999988079,1,31,10,2023-01-10T17:34:31.983Z
+,,,,,demographic,what languages do you speak?,English,5787.5,1,31,,2023-01-10T17:34:37.772Z
+ripe,ripe,a dog,ripe,,catch,,,2927.5,1,31,11,2023-01-10T17:34:40.701Z
+needle,thin,message,,100,feedback,,,4766.9000000059605,1,32,12,2023-01-10T17:34:45.470Z
+,,,,,demographic,what is the highest level ofeducation you have completed?,5_bachelor,3270.600000023842,1,36,,2023-01-10T17:34:55.998Z
+an elephant,to climb,a worm,a worm,,trial,,,6216.600000023842,1,36,13,2023-01-10T17:35:02.216Z
+a pigeon,a worm,to climb,a pigeon,,trial,,,5701.5999999940395,1,46,14,2023-01-10T17:35:07.918Z
+a worm,a pigeon,to hide,a worm,,trial,,,4840.9000000059605,1,47,15,2023-01-10T17:35:12.759Z
+disturb,shirt,people,,0,feedback,,,5801,1,48,16,2023-01-10T17:35:18.565Z
+,,,,,demographic,what is your first/native language?,English,3868.800000011921,1,48,,2023-01-10T17:35:28.870Z
+thin,a turtle,a whale,a whale,,trial,,,4279.5999999940395,1,48,17,2023-01-10T17:35:33.151Z
+a snake,a whale,a turtle,a turtle,,trial,,,6479,1,58,18,2023-01-10T17:35:39.630Z
+money,needle,deceive,,0,feedback,,,5261.4000000059605,1,68,19,2023-01-10T17:35:44.894Z
+,,,,,demographic,what country do you currently live in?,United States,3095.899999976158,1,168,,2023-01-10T17:35:52.021Z
+nasty,powerful,to kick,to kick,,trial,,,3846.899999976158,1,168,20,2023-01-10T17:35:55.869Z
+bad,to kick,powerful,bad,,trial,,,5731.200000017881,1,178,21,2023-01-10T17:36:01.600Z
+to kick,bad,ripe,to kick,,trial,,,3742.2999999821186,1,179,22,2023-01-10T17:36:05.343Z
+bed,knife,pillow,,0,feedback,,,6069.4000000059605,1,180,23,2023-01-10T17:36:11.414Z
+,,,,,demographic,do you have any comments for us?,none,5142.4000000059605,1,182,,2023-01-10T17:36:21.286Z
+a lion,to lay,a chicken,a chicken,,trial,,,4479.5,1,182,24,2023-01-10T17:36:25.766Z
+a giraffe,a chicken,to lay,to lay,,trial,,,3400.5,1,192,25,2023-01-10T17:36:29.167Z
+weak,carry,source,,0,feedback,,,5768.0999999940395,1,202,26,2023-01-10T17:36:34.937Z
+a lizard,a spider,a rabbit,a lizard,,trial,,,3510.0999999940395,1,232,27,2023-01-10T17:36:41.702Z
+a spider,a lizard,stupid,a spider,,trial,,,5073.5999999940395,1,233,28,2023-01-10T17:36:46.776Z
+add,chair,cheap,,0,feedback,,,4907.300000011921,1,234,29,2023-01-10T17:36:51.686Z
+to walk,a spider,famous,to walk,,trial,,,4215.9000000059605,1,234,30,2023-01-10T17:37:00.551Z
+a spider,to walk,a rat,a rat,,trial,,,3279.5999999940395,1,235,31,2023-01-10T17:37:03.831Z
+a mosquito,a rat,to walk,a mosquito,,trial,,,4383.700000017881,1,245,32,2023-01-10T17:37:08.215Z
+a rat,a mosquito,to sit,a rat,,trial,,,5152,1,246,33,2023-01-10T17:37:13.367Z
+rattlesnake,tiger,dolphin,,100,feedback,,,4807.0999999940395,1,247,34,2023-01-10T17:37:18.177Z
+a spider,to dance,to dance,to dance,,catch,,,3440.5,1,262,35,2023-01-10T17:37:23.577Z
+gift,mistake,meat,,100,feedback,,,5331.799999982119,1,272,36,2023-01-10T17:37:28.911Z
+ripe,weak,a rabbit,a rabbit,,trial,,,3080.5999999940395,1,272,37,2023-01-10T17:37:35.511Z
+famous,a rabbit,weak,famous,,trial,,,3655.199999988079,1,282,38,2023-01-10T17:37:39.167Z
+a rabbit,famous,sad,a rabbit,,trial,,,3769.300000011921,1,283,39,2023-01-10T17:37:42.936Z
+pig,tiger,peacock,,100,feedback,,,5420.5,1,284,40,2023-01-10T17:37:48.358Z
+clever,to dance,naked,naked,,trial,,,3346.7999999821186,1,287,41,2023-01-10T17:37:53.785Z
+to crawl,naked,to dance,to crawl,,trial,,,5012.5999999940395,1,297,42,2023-01-10T17:37:58.797Z
+naked,to crawl,a crocodile,a crocodile,,trial,,,4330.700000017881,1,298,43,2023-01-10T17:38:03.128Z
+cheap,a crocodile,to crawl,to crawl,,trial,,,4696.5999999940395,1,308,44,2023-01-10T17:38:07.825Z
+pony,seal,perch,,0,feedback,,,6028,1,318,45,2023-01-10T17:38:13.854Z
+to hide,to hide,sad,to hide,,catch,,,3078.2999999821186,1,329,46,2023-01-10T17:38:18.895Z
+gorilla,caribou,goose,,100,feedback,,,3820.399999976158,1,330,47,2023-01-10T17:38:22.719Z
+to kick,to sit,a zebra,to kick,,trial,,,3697.800000011921,1,334,48,2023-01-10T17:38:28.137Z
+to sit,to kick,to stand,to stand,,trial,,,3246.5,1,335,49,2023-01-10T17:38:31.384Z
+ripe,to stand,to kick,to kick,,trial,,,3734.199999988079,1,345,50,2023-01-10T17:38:35.118Z

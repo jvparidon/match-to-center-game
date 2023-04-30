@@ -1,0 +1,273 @@
+topword,middleword,bottomword,chosenword,percentage,trial_type,question,response,rt,session,points,trialnum,datetime
+,,,,,demographic,automatic user agent check,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",,1,0,,2022-12-15T15:09:25.931Z
+a cow,a mouse,beautiful,a cow,,trial,,,2759,1,0,2,2022-12-15T15:09:57.971Z
+a mouse,a cow,a cat,a cat,,trial,,,7945,1,1,3,2022-12-15T15:10:05.916Z
+a pigeon,a cat,a cow,a cow,,trial,,,5848,1,11,4,2022-12-15T15:10:11.764Z
+bat,bear,crocodile,,68,feedback,,,10444,1,21,5,2022-12-15T15:10:29.773Z
+,,,,,demographic,what is your age?,34,3517,1,78,,2022-12-15T15:10:40.068Z
+an elephant,a crab,a pigeon,a pigeon,,trial,,,5735,1,78,6,2022-12-15T15:10:45.805Z
+a crow,a pigeon,a crab,a crow,,trial,,,2192,1,88,7,2022-12-15T15:10:47.997Z
+a pigeon,a crow,an elephant,a pigeon,,trial,,,2375,1,89,8,2022-12-15T15:10:50.372Z
+coyote,dog,turkey,,80,feedback,,,6626,1,90,9,2022-12-15T15:10:57.004Z
+,,,,,demographic,what is your gender?,female,2662,1,173,,2022-12-15T15:11:06.292Z
+other,to duck,clever,other,,trial,,,5878,1,173,10,2022-12-15T15:11:12.173Z
+to duck,other,to sit,to duck,,trial,,,7361,1,174,11,2022-12-15T15:11:19.534Z
+rooster,vulture,turtle,,85,feedback,,,5354,1,175,12,2022-12-15T15:11:24.892Z
+,,,,,demographic,what languages do you speak?,English,5863,1,272,,2022-12-15T15:11:36.588Z
+to lay,a wolf,to stand,to stand,,trial,,,5767,1,272,13,2022-12-15T15:11:42.358Z
+a zebra,to stand,a wolf,a zebra,,trial,,,4020,1,282,14,2022-12-15T15:11:46.378Z
+to stand,a zebra,to swim,to swim,,trial,,,3763,1,283,15,2022-12-15T15:11:50.141Z
+a snake,to swim,a zebra,a snake,,trial,,,7761,1,293,16,2022-12-15T15:11:57.902Z
+to swim,a snake,an octopus,an octopus,,trial,,,5479,1,294,17,2022-12-15T15:12:03.381Z
+a tiger,an octopus,a snake,a snake,,trial,,,3969,1,304,18,2022-12-15T15:12:07.350Z
+horse,pony,rooster,,100,feedback,,,4419,1,314,19,2022-12-15T15:12:11.773Z
+,,,,,demographic,what is the highest level ofeducation you have completed?,3_somecollege,3750,1,397,,2022-12-15T15:12:20.276Z
+good,stupid,a fish,good,,trial,,,5054,1,397,20,2022-12-15T15:12:25.332Z
+stupid,good,a whale,stupid,,trial,,,4384,1,398,21,2022-12-15T15:12:29.716Z
+rooster,lamb,rat,,27,feedback,,,4578,1,399,22,2022-12-15T15:12:34.299Z
+,,,,,demographic,what is your first/native language?,English,3502,1,450,,2022-12-15T15:12:40.387Z
+sick,a dolphin,to run,sick,,trial,,,4613,1,450,23,2022-12-15T15:12:45.003Z
+a dolphin,sick,bad,bad,,trial,,,1705,1,451,24,2022-12-15T15:12:46.708Z
+to walk,bad,sick,sick,,trial,,,2809,1,461,25,2022-12-15T15:12:49.517Z
+peacock,crocodile,iguana,,25,feedback,,,3895,1,471,26,2022-12-15T15:12:53.420Z
+,,,,,demographic,what country do you currently live in?,USA,5350,1,549,,2022-12-15T15:13:01.259Z
+good,a horse,sick,good,,trial,,,3910,1,549,27,2022-12-15T15:13:05.172Z
+a horse,good,sad,a horse,,trial,,,2179,1,550,28,2022-12-15T15:13:07.351Z
+toad,seal,lamb,,49,feedback,,,6751,1,551,29,2022-12-15T15:13:14.108Z
+,,,,,demographic,do you have any comments for us?,N/A,4941,1,651,,2022-12-15T15:13:23.314Z
+a cow,to hide,ripe,a cow,,trial,,,4159,1,651,30,2022-12-15T15:13:27.476Z
+to hide,a cow,a fish,a fish,,trial,,,2335,1,652,31,2022-12-15T15:13:29.811Z
+to sit,a fish,a cow,a cow,,trial,,,2505,1,662,32,2022-12-15T15:13:32.316Z
+crab,dolphin,elk,,79,feedback,,,4353,1,672,33,2022-12-15T15:13:36.676Z
+a pigeon,last,to dive,to dive,,trial,,,6049,1,718,34,2022-12-15T15:13:44.254Z
+famous,to dive,last,last,,trial,,,2886,1,728,35,2022-12-15T15:13:47.140Z
+elk,dolphin,frog,,37,feedback,,,3770,1,738,36,2022-12-15T15:13:50.916Z
+a rat,a rat,bad,a rat,,catch,,,2606,1,816,37,2022-12-15T15:13:54.949Z
+toad,dolphin,cougar,,81,feedback,,,3005,1,817,38,2022-12-15T15:13:57.959Z
+weak,a snake,thin,thin,,trial,,,2478,1,848,39,2022-12-15T15:14:01.820Z
+sad,thin,a snake,sad,,trial,,,3168,1,858,40,2022-12-15T15:14:04.988Z
+thin,sad,weak,thin,,trial,,,3304,1,859,41,2022-12-15T15:14:08.292Z
+elephant,lamb,turkey,,41,feedback,,,2754,1,860,42,2022-12-15T15:14:11.051Z
+an elephant,a giraffe,to dive,an elephant,,trial,,,2031,1,915,43,2022-12-15T15:14:14.324Z
+a giraffe,an elephant,a cat,a giraffe,,trial,,,2240,1,916,44,2022-12-15T15:14:16.564Z
+zebra,horse,chicken,,92,feedback,,,3331,1,917,45,2022-12-15T15:14:19.899Z
+last,weak,a mosquito,last,,trial,,,2665,1,1008,46,2022-12-15T15:14:23.822Z
+weak,last,empty,empty,,trial,,,1701,1,1009,47,2022-12-15T15:14:25.524Z
+to carry,empty,last,to carry,,trial,,,3225,1,1019,48,2022-12-15T15:14:28.749Z
+empty,to carry,clever,empty,,trial,,,2223,1,1020,49,2022-12-15T15:14:30.972Z
+turtle,seal,elk,,67,feedback,,,3869,1,1021,50,2022-12-15T15:14:34.845Z
+a zebra,a crocodile,to walk,to walk,,trial,,,3143,1,1094,51,2022-12-15T15:14:39.165Z
+sick,to walk,a crocodile,sick,,trial,,,2753,1,1104,52,2022-12-15T15:14:41.918Z
+to walk,sick,gentle,gentle,,trial,,,2310,1,1105,53,2022-12-15T15:14:44.228Z
+beautiful,gentle,sick,beautiful,,trial,,,2066,1,1115,54,2022-12-15T15:14:46.294Z
+gentle,beautiful,fresh,fresh,,trial,,,2447,1,1116,55,2022-12-15T15:14:48.741Z
+a dog,fresh,beautiful,beautiful,,trial,,,2113,1,1126,56,2022-12-15T15:14:50.854Z
+duck,caribou,bat,,67,feedback,,,2143,1,1136,57,2022-12-15T15:14:53.004Z
+to carry,a lizard,powerful,to carry,,trial,,,8542,1,1200,58,2022-12-15T15:15:02.421Z
+a lizard,to carry,a pig,a lizard,,trial,,,3824,1,1201,59,2022-12-15T15:15:06.245Z
+gorilla,sheep,chicken,,69,feedback,,,6417,1,1202,60,2022-12-15T15:15:12.668Z
+a crab,a chicken,to hide,a crab,,trial,,,4046,1,1261,61,2022-12-15T15:15:18.420Z
+a chicken,a crab,a crow,a chicken,,trial,,,4425,1,1262,62,2022-12-15T15:15:22.845Z
+rattlesnake,bat,gorilla,,58,feedback,,,3850,1,1263,63,2022-12-15T15:15:26.700Z
+a frog,a wolf,empty,a frog,,trial,,,2422,1,1360,64,2022-12-15T15:15:30.525Z
+a wolf,a frog,to sit,a wolf,,trial,,,1666,1,1361,65,2022-12-15T15:15:32.191Z
+pony,bat,rattlesnake,,36,feedback,,,3584,1,1362,66,2022-12-15T15:15:35.780Z
+to duck,clever,clever,clever,,catch,,,2966,1,1445,67,2022-12-15T15:15:39.997Z
+crocodile,duck,chicken,,21,feedback,,,2731,1,1455,68,2022-12-15T15:15:42.732Z
+to sit,a giraffe,ripe,to sit,,trial,,,4278,1,1533,69,2022-12-15T15:15:48.205Z
+a giraffe,to sit,to run,to run,,trial,,,1599,1,1534,70,2022-12-15T15:15:49.804Z
+a frog,to run,to sit,to sit,,trial,,,2354,1,1544,71,2022-12-15T15:15:52.158Z
+coyote,seal,perch,,27,feedback,,,3970,1,1554,72,2022-12-15T15:15:56.133Z
+strong,a dolphin,soft,strong,,trial,,,2903,1,1600,73,2022-12-15T15:16:00.869Z
+a dolphin,strong,to duck,to duck,,trial,,,2648,1,1601,74,2022-12-15T15:16:03.517Z
+a squirrel,to duck,strong,strong,,trial,,,2571,1,1611,75,2022-12-15T15:16:06.088Z
+crab,seal,cat,,75,feedback,,,2544,1,1621,76,2022-12-15T15:16:08.636Z
+to run,clever,a pig,to run,,trial,,,3888,1,1674,77,2022-12-15T15:16:13.590Z
+clever,to run,a crab,clever,,trial,,,1505,1,1675,78,2022-12-15T15:16:15.095Z
+duck,caribou,camel,,9,feedback,,,3329,1,1676,79,2022-12-15T15:16:18.428Z
+a mouse,a squirrel,an elephant,a mouse,,trial,,,4182,1,1759,80,2022-12-15T15:16:24.141Z
+a squirrel,a mouse,a tiger,a squirrel,,trial,,,2055,1,1760,81,2022-12-15T15:16:26.196Z
+rattlesnake,bat,cougar,,70,feedback,,,2404,1,1761,82,2022-12-15T15:16:28.604Z
+good,sick,to swim,to swim,,trial,,,5415,1,1829,83,2022-12-15T15:16:35.365Z
+strong,to swim,sick,strong,,trial,,,1634,1,1839,84,2022-12-15T15:16:36.999Z
+to swim,strong,a nest,to swim,,trial,,,2231,1,1840,85,2022-12-15T15:16:39.230Z
+peacock,zebra,seal,,66,feedback,,,2498,1,1841,86,2022-12-15T15:16:41.732Z
+to crawl,sad,to dive,to crawl,,trial,,,2727,1,1887,87,2022-12-15T15:16:45.349Z
+sad,to crawl,a fish,sad,,trial,,,1939,1,1888,88,2022-12-15T15:16:47.288Z
+chimp,beaver,turtle,,30,feedback,,,3407,1,1889,89,2022-12-15T15:16:50.700Z
+a fish,to dance,to dance,to dance,,catch,,,2247,1,1925,90,2022-12-15T15:16:53.821Z
+caribou,dolphin,lobster,,32,feedback,,,2931,1,1935,91,2022-12-15T15:16:56.756Z
+a chicken,a squirrel,deaf,a chicken,,trial,,,2334,1,2005,92,2022-12-15T15:17:00.013Z
+a squirrel,a chicken,good,a squirrel,,trial,,,1731,1,2006,93,2022-12-15T15:17:01.744Z
+cougar,dolphin,turtle,,35,feedback,,,3991,1,2007,94,2022-12-15T15:17:05.740Z
+sick,to climb,a turtle,a turtle,,trial,,,3952,1,2085,95,2022-12-15T15:17:10.510Z
+to run,a turtle,to climb,to climb,,trial,,,4616,1,2095,96,2022-12-15T15:17:15.126Z
+fawn,gorilla,crocodile,,60,feedback,,,2776,1,2105,97,2022-12-15T15:17:17.908Z
+thick,to climb,beautiful,thick,,trial,,,13050,1,2193,98,2022-12-15T15:17:31.927Z
+to climb,thick,a fox,to climb,,trial,,,5237,1,2194,99,2022-12-15T15:17:37.164Z
+seal,goat,chicken,,35,feedback,,,2324,1,2195,100,2022-12-15T15:17:39.492Z
+empty,a pig,thin,empty,,trial,,,6859,1,2261,101,2022-12-15T15:17:48.148Z
+a pig,empty,a wolf,a pig,,trial,,,3288,1,2262,102,2022-12-15T15:17:51.436Z
+fawn,bat,rattlesnake,,40,feedback,,,3235,1,2263,103,2022-12-15T15:17:54.675Z
+a mouse,last,fresh,fresh,,trial,,,2584,1,2357,104,2022-12-15T15:17:58.029Z
+gentle,fresh,last,gentle,,trial,,,3119,1,2367,105,2022-12-15T15:18:01.148Z
+fresh,gentle,a wolf,fresh,,trial,,,2864,1,2368,106,2022-12-15T15:18:04.012Z
+chimp,dolphin,crab,,36,feedback,,,2802,1,2369,107,2022-12-15T15:18:06.819Z
+to run,gentle,a pig,a pig,,trial,,,4181,1,2447,108,2022-12-15T15:18:11.891Z
+deaf,a pig,gentle,gentle,,trial,,,5273,1,2457,109,2022-12-15T15:18:17.164Z
+alligator,iguana,coyote,,63,feedback,,,2264,1,2467,110,2022-12-15T15:18:19.434Z
+a crab,a worm,a rat,a crab,,trial,,,7021,1,2518,111,2022-12-15T15:18:27.925Z
+a worm,a crab,full,a worm,,trial,,,2175,1,2519,112,2022-12-15T15:18:30.100Z
+chicken,dog,bat,,61,feedback,,,4067,1,2520,113,2022-12-15T15:18:34.172Z
+to duck,an octopus,a mouse,to duck,,trial,,,4334,1,2606,114,2022-12-15T15:18:39.397Z
+an octopus,to duck,to kick,to kick,,trial,,,2553,1,2607,115,2022-12-15T15:18:41.950Z
+a turtle,to kick,to duck,to duck,,trial,,,2304,1,2617,116,2022-12-15T15:18:44.254Z
+frog,seal,cougar,,60,feedback,,,4444,1,2627,117,2022-12-15T15:18:48.701Z
+a tiger,a worm,a giraffe,a tiger,,trial,,,3998,1,2697,118,2022-12-15T15:18:53.645Z
+a worm,a tiger,ripe,a worm,,trial,,,1775,1,2698,119,2022-12-15T15:18:55.420Z
+elephant,dolphin,lobster,,32,feedback,,,3804,1,2699,120,2022-12-15T15:18:59.228Z
+naked,a crab,to hide,naked,,trial,,,3879,1,2758,121,2022-12-15T15:19:04.029Z
+a crab,naked,a horse,a crab,,trial,,,5191,1,2759,122,2022-12-15T15:19:09.220Z
+chicken,goat,lion,,34,feedback,,,6435,1,2760,123,2022-12-15T15:19:15.660Z
+famous,other,to crawl,famous,,trial,,,3790,1,2840,124,2022-12-15T15:19:20.669Z
+other,famous,to dance,to dance,,trial,,,2032,1,2841,125,2022-12-15T15:19:22.701Z
+a pig,to dance,famous,famous,,trial,,,2737,1,2851,126,2022-12-15T15:19:25.438Z
+seal,penguin,turkey,,62,feedback,,,3899,1,2861,127,2022-12-15T15:19:29.341Z
+a mosquito,a pigeon,beautiful,beautiful,,trial,,,4735,1,2941,128,2022-12-15T15:19:35.093Z
+ripe,beautiful,a pigeon,ripe,,trial,,,2199,1,2951,129,2022-12-15T15:19:37.292Z
+beautiful,ripe,a rabbit,beautiful,,trial,,,2329,1,2952,130,2022-12-15T15:19:39.621Z
+peacock,horse,fawn,,29,feedback,,,3668,1,2953,131,2022-12-15T15:19:43.292Z
+a chicken,to walk,a turtle,a turtle,,trial,,,8742,1,3021,132,2022-12-15T15:19:54.045Z
+stupid,a turtle,to walk,to walk,,trial,,,2448,1,3031,133,2022-12-15T15:19:56.493Z
+perch,dolphin,lion,,65,feedback,,,2815,1,3041,134,2022-12-15T15:19:59.315Z
+a mosquito,a mouse,good,a mosquito,,trial,,,2599,1,3111,135,2022-12-15T15:20:03.421Z
+a mouse,a mosquito,a fish,a mouse,,trial,,,5791,1,3112,136,2022-12-15T15:20:09.212Z
+perch,seal,pony,,76,feedback,,,4228,1,3113,137,2022-12-15T15:20:13.444Z
+sick,empty,a nest,a nest,,trial,,,5146,1,3159,138,2022-12-15T15:20:18.598Z
+soft,a nest,empty,empty,,trial,,,1496,1,3169,139,2022-12-15T15:20:20.094Z
+rat,horse,rooster,,62,feedback,,,3184,1,3179,140,2022-12-15T15:20:23.286Z
+to sit,a pigeon,a zebra,a zebra,,trial,,,5345,1,3259,141,2022-12-15T15:20:29.868Z
+to kick,a zebra,a pigeon,a pigeon,,trial,,,1640,1,3269,142,2022-12-15T15:20:31.508Z
+dolphin,coyote,iguana,,42,feedback,,,2948,1,3279,143,2022-12-15T15:20:34.460Z
+a dolphin,a crow,naked,a dolphin,,trial,,,2534,1,3343,144,2022-12-15T15:20:38.252Z
+a crow,a dolphin,cheap,a crow,,trial,,,1592,1,3344,145,2022-12-15T15:20:39.844Z
+dog,turkey,duck,,24,feedback,,,3427,1,3345,146,2022-12-15T15:20:43.275Z
+a worm,thin,thin,thin,,catch,,,2705,1,3415,147,2022-12-15T15:20:47.510Z
+lobster,dolphin,cougar,,63,feedback,,,2550,1,3425,148,2022-12-15T15:20:50.067Z
+full,naked,other,other,,trial,,,4870,1,3508,149,2022-12-15T15:20:55.924Z
+thick,other,naked,thick,,trial,,,2985,1,3518,150,2022-12-15T15:20:58.909Z
+other,thick,weak,other,,trial,,,2390,1,3519,151,2022-12-15T15:21:01.299Z
+caribou,beaver,alligator,,45,feedback,,,2788,1,3520,152,2022-12-15T15:21:04.091Z
+last,a spider,sick,last,,trial,,,5006,1,3586,153,2022-12-15T15:21:10.020Z
+a spider,last,a fish,a fish,,trial,,,2764,1,3587,154,2022-12-15T15:21:12.784Z
+a dog,a fish,last,a dog,,trial,,,1749,1,3597,155,2022-12-15T15:21:14.533Z
+a fish,a dog,full,a fish,,trial,,,1608,1,3598,156,2022-12-15T15:21:16.141Z
+alligator,bat,caribou,,64,feedback,,,2987,1,3599,157,2022-12-15T15:21:19.131Z
+nasty,a crab,a lizard,a lizard,,trial,,,2752,1,3658,158,2022-12-15T15:21:22.765Z
+a fish,a lizard,a crab,a crab,,trial,,,3279,1,3668,159,2022-12-15T15:21:26.044Z
+dolphin,tiger,rattlesnake,,52,feedback,,,4451,1,3678,160,2022-12-15T15:21:30.499Z
+to stand,thin,a crab,to stand,,trial,,,3332,1,3772,161,2022-12-15T15:21:36.403Z
+thin,to stand,a whale,thin,,trial,,,1945,1,3773,162,2022-12-15T15:21:38.348Z
+rooster,vulture,toad,,62,feedback,,,5378,1,3774,163,2022-12-15T15:21:43.731Z
+powerful,a fish,a dolphin,a dolphin,,trial,,,2950,1,3823,164,2022-12-15T15:21:48.052Z
+full,a dolphin,a fish,a fish,,trial,,,1450,1,3833,165,2022-12-15T15:21:49.502Z
+rooster,lamb,dolphin,,58,feedback,,,4690,1,3843,166,2022-12-15T15:21:54.195Z
+to dance,to dance,to walk,to dance,,catch,,,1615,1,3921,167,2022-12-15T15:21:56.909Z
+chicken,goat,dolphin,,57,feedback,,,3059,1,3922,168,2022-12-15T15:21:59.971Z
+to climb,a wolf,a giraffe,a giraffe,,trial,,,1993,1,4019,169,2022-12-15T15:22:02.839Z
+gentle,a giraffe,a wolf,a wolf,,trial,,,1287,1,4029,170,2022-12-15T15:22:04.126Z
+perch,turtle,rattlesnake,,36,feedback,,,4051,1,4039,171,2022-12-15T15:22:08.180Z
+clever,a frog,to crawl,to crawl,,trial,,,4543,1,4119,172,2022-12-15T15:22:13.660Z
+a turtle,to crawl,a frog,a turtle,,trial,,,3592,1,4129,173,2022-12-15T15:22:17.252Z
+to crawl,a turtle,full,to crawl,,trial,,,3528,1,4130,174,2022-12-15T15:22:20.780Z
+alligator,bat,deer,,60,feedback,,,2773,1,4131,175,2022-12-15T15:22:23.557Z
+a frog,to carry,to climb,to climb,,trial,,,1998,1,4209,176,2022-12-15T15:22:27.029Z
+gentle,to climb,to carry,to carry,,trial,,,1320,1,4219,177,2022-12-15T15:22:28.349Z
+camel,seal,alligator,,42,feedback,,,2650,1,4229,178,2022-12-15T15:22:31.004Z
+a zebra,bad,gentle,gentle,,trial,,,2908,1,4329,179,2022-12-15T15:22:37.244Z
+a seal,gentle,bad,bad,,trial,,,1857,1,4339,180,2022-12-15T15:22:39.101Z
+pig,bat,alligator,,44,feedback,,,3155,1,4349,181,2022-12-15T15:22:42.260Z
+clever,a squid,a lion,a lion,,trial,,,2093,1,4429,182,2022-12-15T15:22:45.245Z
+good,a lion,a squid,a squid,,trial,,,1280,1,4439,183,2022-12-15T15:22:46.525Z
+toad,rat,gorilla,,42,feedback,,,2874,1,4449,184,2022-12-15T15:22:49.405Z
+empty,a dolphin,an elephant,an elephant,,trial,,,3005,1,4519,185,2022-12-15T15:22:53.244Z
+an octopus,an elephant,a dolphin,a dolphin,,trial,,,3617,1,4529,186,2022-12-15T15:22:56.861Z
+rooster,pig,gorilla,,46,feedback,,,3379,1,4539,187,2022-12-15T15:23:00.244Z
+a fish,a crab,to sit,a fish,,trial,,,2279,1,4639,188,2022-12-15T15:23:04.189Z
+a crab,a fish,to kick,a crab,,trial,,,1657,1,4640,189,2022-12-15T15:23:05.846Z
+alligator,dolphin,cow,,72,feedback,,,5728,1,4641,190,2022-12-15T15:23:11.580Z
+to climb,to climb,a whale,to climb,,catch,,,1705,1,4707,191,2022-12-15T15:23:14.503Z
+chimp,goat,chicken,,40,feedback,,,2615,1,4708,192,2022-12-15T15:23:17.124Z
+famous,a cat,an elephant,an elephant,,trial,,,2325,1,4767,193,2022-12-15T15:23:20.301Z
+to dive,an elephant,a cat,a cat,,trial,,,1752,1,4777,194,2022-12-15T15:23:22.053Z
+vulture,rat,tiger,,36,feedback,,,5803,1,4787,195,2022-12-15T15:23:27.860Z
+to duck,ripe,last,last,,trial,,,2998,1,4844,196,2022-12-15T15:23:31.677Z
+a cow,last,ripe,ripe,,trial,,,1721,1,4854,197,2022-12-15T15:23:33.398Z
+rat,vulture,turkey,,9,feedback,,,2633,1,4864,198,2022-12-15T15:23:36.037Z
+to hide,soft,to crawl,to hide,,trial,,,6610,1,4939,199,2022-12-15T15:23:42.654Z
+soft,to hide,a seal,soft,,trial,,,2600,1,4940,200,2022-12-15T15:23:45.254Z
+peacock,zebra,elk,,32,feedback,,,2752,1,4941,201,2022-12-15T15:23:48.012Z
+an octopus,powerful,to run,to run,,trial,,,6262,1,5002,202,2022-12-15T15:23:56.181Z
+fresh,to run,powerful,powerful,,trial,,,2154,1,5012,203,2022-12-15T15:23:58.335Z
+perch,dolphin,pony,,65,feedback,,,2945,1,5022,204,2022-12-15T15:24:01.284Z
+a lion,clever,sad,sad,,trial,,,2166,1,5102,205,2022-12-15T15:24:04.837Z
+a pig,sad,clever,clever,,trial,,,1568,1,5112,206,2022-12-15T15:24:06.405Z
+rooster,pig,bat,,71,feedback,,,4072,1,5122,207,2022-12-15T15:24:10.485Z
+deaf,sick,a rabbit,deaf,,trial,,,2062,1,5179,208,2022-12-15T15:24:14.293Z
+sick,deaf,a spider,sick,,trial,,,1648,1,5180,209,2022-12-15T15:24:15.941Z
+dolphin,horse,chicken,,28,feedback,,,3164,1,5181,210,2022-12-15T15:24:19.109Z
+cheap,to jump,a seal,cheap,,trial,,,3161,1,5230,211,2022-12-15T15:24:24.087Z
+to jump,cheap,sick,sick,,trial,,,1766,1,5231,212,2022-12-15T15:24:25.853Z
+a wolf,sick,cheap,cheap,,trial,,,1761,1,5241,213,2022-12-15T15:24:27.614Z
+camel,seal,perch,,30,feedback,,,2721,1,5251,214,2022-12-15T15:24:30.340Z
+famous,famous,to carry,famous,,catch,,,1902,1,5304,215,2022-12-15T15:24:33.653Z
+vulture,penguin,seal,,33,feedback,,,2972,1,5305,216,2022-12-15T15:24:36.628Z
+fresh,a cat,beautiful,beautiful,,trial,,,3703,1,5366,217,2022-12-15T15:24:41.157Z
+a rat,beautiful,a cat,a cat,,trial,,,3912,1,5376,218,2022-12-15T15:24:45.069Z
+frog,dolphin,deer,,66,feedback,,,3500,1,5386,219,2022-12-15T15:24:48.573Z
+nasty,to climb,soft,soft,,trial,,,2279,1,5450,220,2022-12-15T15:24:52.125Z
+a crow,soft,to climb,to climb,,trial,,,2257,1,5460,221,2022-12-15T15:24:54.382Z
+coyote,seal,crab,,35,feedback,,,3723,1,5470,222,2022-12-15T15:24:58.109Z
+bad,a giraffe,to walk,to walk,,trial,,,3304,1,5534,223,2022-12-15T15:25:02.399Z
+a lion,to walk,a giraffe,a giraffe,,trial,,,1974,1,5544,224,2022-12-15T15:25:04.373Z
+chicken,duck,caribou,,82,feedback,,,2597,1,5554,225,2022-12-15T15:25:06.973Z
+a snake,last,a squid,a squid,,trial,,,4792,1,5640,226,2022-12-15T15:25:11.773Z
+a fox,a squid,last,a fox,,trial,,,2184,1,5650,227,2022-12-15T15:25:13.957Z
+a squid,a fox,other,a squid,,trial,,,1896,1,5651,228,2022-12-15T15:25:15.853Z
+turtle,seal,coyote,,71,feedback,,,3196,1,5652,229,2022-12-15T15:25:19.052Z
+a spider,a snake,a dolphin,a spider,,trial,,,2392,1,5718,230,2022-12-15T15:25:22.734Z
+a snake,a spider,a chicken,a snake,,trial,,,2927,1,5719,231,2022-12-15T15:25:25.661Z
+bat,lion,crocodile,,60,feedback,,,3738,1,5720,232,2022-12-15T15:25:29.404Z
+a lion,a lion,to run,a lion,,catch,,,1294,1,5781,233,2022-12-15T15:25:31.613Z
+mouse,sheep,rooster,,68,feedback,,,3285,1,5782,234,2022-12-15T15:25:34.902Z
+a squirrel,to duck,a horse,a squirrel,,trial,,,4068,1,5846,235,2022-12-15T15:25:38.981Z
+to duck,a squirrel,to hide,to hide,,trial,,,1696,1,5847,236,2022-12-15T15:25:40.677Z
+to run,to hide,a squirrel,to run,,trial,,,1736,1,5857,237,2022-12-15T15:25:42.413Z
+to hide,to run,cheap,to hide,,trial,,,1736,1,5858,238,2022-12-15T15:25:44.149Z
+pig,tiger,alligator,,39,feedback,,,3253,1,5859,239,2022-12-15T15:25:47.405Z
+an octopus,a chicken,to jump,an octopus,,trial,,,3509,1,5916,240,2022-12-15T15:25:52.109Z
+a chicken,an octopus,sick,a chicken,,trial,,,1705,1,5917,241,2022-12-15T15:25:53.814Z
+,,,,50,feedback,,,5563,1,5918,242,2022-12-15T15:25:59.381Z
+a pig,weak,a dog,a pig,,trial,,,5935,1,,243,2022-12-15T15:26:09.405Z
+weak,a pig,to sit,to sit,,trial,,,5847,1,,244,2022-12-15T15:26:15.252Z
+a pigeon,to sit,a pig,a pigeon,,trial,,,3617,1,,245,2022-12-15T15:26:18.869Z
+to sit,a pigeon,a chicken,a chicken,,trial,,,1632,1,,246,2022-12-15T15:26:20.501Z
+weak,a chicken,a pigeon,a pigeon,,trial,,,1695,1,,247,2022-12-15T15:26:22.196Z
+,,,,50,feedback,,,4091,1,,248,2022-12-15T15:26:26.292Z
+a wolf,clever,a crocodile,a wolf,,trial,,,2568,1,,249,2022-12-15T15:26:30.158Z
+clever,a wolf,to hide,clever,,trial,,,2767,1,,250,2022-12-15T15:26:32.925Z
+,,,,50,feedback,,,1979,1,,251,2022-12-15T15:26:34.908Z
+,,,,,cap,completion_code,znja5m1m89t0l,,1,,251,2022-12-15T15:28:12.052Z
+sick,a zebra,a chicken,a chicken,,trial,,,5014,1,,253,2022-12-15T15:28:17.068Z
+to carry,a chicken,a zebra,a zebra,,trial,,,4648,1,,254,2022-12-15T15:28:21.716Z
+gentle,a horse,to carry,to carry,,trial,,,2593,1,,255,2022-12-15T15:28:24.316Z
+to duck,to carry,a horse,a horse,,trial,,,1992,1,,256,2022-12-15T15:28:26.308Z
+weak,ripe,a pigeon,weak,,trial,,,2947,1,,257,2022-12-15T15:28:29.260Z
+ripe,weak,thick,ripe,,trial,,,3256,1,,258,2022-12-15T15:28:32.516Z
+a dolphin,thin,a pig,a dolphin,,trial,,,2571,1,,259,2022-12-15T15:28:35.093Z
+thin,a dolphin,to carry,thin,,trial,,,2783,1,,260,2022-12-15T15:28:37.876Z
+to duck,a frog,powerful,to duck,,trial,,,4456,1,,261,2022-12-15T15:28:42.340Z
+a frog,to duck,stupid,stupid,,trial,,,2720,1,,262,2022-12-15T15:28:45.060Z
+a crocodile,stupid,to duck,to duck,,trial,,,3344,1,,263,2022-12-15T15:28:48.404Z
+deaf,weak,thick,deaf,,trial,,,3037,1,,264,2022-12-15T15:28:51.445Z
+weak,deaf,empty,empty,,trial,,,1983,1,,265,2022-12-15T15:28:53.428Z

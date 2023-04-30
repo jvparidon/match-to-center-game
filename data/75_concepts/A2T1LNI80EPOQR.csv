@@ -1,0 +1,5 @@
+topword,middleword,bottomword,chosenword,percentage,trial_type,question,response,rt,session,points,trialnum,datetime
+,,,,,demographic,automatic user agent check,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",,1,0,,2022-12-15T12:02:06.662Z
+a squirrel,a lizard,a worm,a worm,,trial,,,406.40000009536743,1,0,2,2022-12-15T12:02:46.168Z
+a horse,a worm,a lizard,a lizard,,trial,,,8085.5,1,10,3,2022-12-15T12:02:54.253Z
+toad,dolphin,cougar,,66,feedback,,,17144.399999976158,1,20,4,2022-12-15T12:03:26.109Z

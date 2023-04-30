@@ -1,0 +1,12 @@
+topword,middleword,bottomword,chosenword,percentage,trial_type,question,response,rt,session,points,trialnum,datetime
+,,,,,demographic,automatic user agent check,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",,1,0,,2023-01-10T17:29:11.047Z
+clever,a mouse,a mouse,a mouse,,catch,,,2082.399999976158,1,0,2,2023-01-10T17:29:32.024Z
+crocodile,bear,bat,,92,feedback,,,2304.600000023842,1,10,3,2023-01-10T17:29:49.349Z
+,,,,,demographic,what is your age?,38,3189.3000000715256,1,30,,2023-01-10T17:29:56.612Z
+a mouse,ripe,naked,naked,,trial,,,4299.600000023842,1,30,4,2023-01-10T17:30:00.912Z
+to stand,naked,ripe,ripe,,trial,,,2522.2000000476837,1,40,5,2023-01-10T17:30:03.435Z
+purple,item,destroy,,100,feedback,,,6176.699999928474,1,50,6,2023-01-10T17:30:09.613Z
+,,,,,demographic,what is your gender?,male,3117.5,1,50,,2023-01-10T17:30:17.515Z
+a tiger,a zebra,to kick,a tiger,,trial,,,1909.7999999523163,1,50,7,2023-01-10T17:30:19.425Z
+a zebra,a tiger,a frog,a zebra,,trial,,,2447.9000000953674,1,51,8,2023-01-10T17:30:21.873Z
+iguana,alligator,bear,,12,feedback,,,4746.200000047684,1,52,9,2023-01-10T17:30:26.621Z

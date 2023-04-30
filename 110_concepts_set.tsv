@@ -1,0 +1,112 @@
+concept	category
+ cheap	adjective
+ chest	bodypart
+ child	person
+ clever	adjective
+ clothes	item
+ country	abstract
+ dirt	nature
+ dish	item
+ famous	adjective
+ gentle	adjective
+ grass	nature
+ grief	emotion
+ hair	bodypart
+ life	abstract
+ meat	food
+ memory	abstract
+ milk	food
+ money	abstract
+ naked	adjective
+ noise	nature
+ other	abstract
+ pain	emotion
+ people	person
+ power	abstract
+ powerful	adjective
+ sad	emotion
+ sick	emotion
+ soft	adjective
+ source	abstract
+ thick	adjective
+ thin	adjective
+ truth	abstract
+ under	adjective
+ weak	adjective
+ week	time
+ weight	abstract
+a bed	furniture
+a boot	clothing
+a box	item
+a business	abstract
+a chair	furniture
+a cheek	bodypart
+a cloud	nature
+a collar	clothing
+a corner	abstract
+a family	person
+a fish	food
+a gift	item
+a grandfather	person
+a heel	bodypart
+a knife	item
+a ladder	item
+a leg	bodypart
+a message	abstract
+a mistake	abstract
+a month	time
+a needle	item
+a nest	nature
+a nose	bodypart
+a picture	item
+a pillow	furniture
+a reason	abstract
+a roof	furniture
+a shelf	furniture
+a shirt	clothing
+a shoe	clothing
+a story	abstract
+a table	furniture
+a teacher	person
+a thigh	bodypart
+a toe	bodypart
+a vein	bodypart
+a woman	person
+a word	abstract
+an arm	bodypart
+an item	item
+black	color
+blue	color
+brown	color
+gray	color
+green	color
+orange	color
+pink	color
+purple	color
+red	color
+the ground	nature
+to add	verb
+to arrive	verb
+to believe	verb
+to bother	verb
+to carry	verb
+to choose	verb
+to deceive	verb
+to destroy	verb
+to disturb	verb
+to eat	verb
+to forget	verb
+to grow	verb
+to hear	verb
+to know	verb
+to lose	verb
+to melt	verb
+to read	verb
+to seek	verb
+to sell	verb
+to speak	verb
+to steal	verb
+to teach	verb
+to win	verb
+white	color
+yellow	color

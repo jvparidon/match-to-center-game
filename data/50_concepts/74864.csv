@@ -1,0 +1,12 @@
+sliders,choices,rt,default,left_words,max,max_duration,min,question_type,right_words,slider_words,triad_mix,trial,trial_num
+"74,67,81,78","true,true,true,true","5734,7551,4679,5521.000000000029",50,"pen,pen,pen,pen",100,12,0,type3,"gloves,gloves,gloves,gloves","dress,necklace,shirt,belt",50% type 1/50% type 3,64,3
+"11,23,67,28","true,true,true,true","4376,6285,5162,5308",50,"airplane,airplane,airplane,airplane",100,12,0,type1,"bike,bike,bike,bike","submarine,train,wagon,ship",50% type 1/50% type 3,16,4
+"24,30,36,26","true,true,true,true","9018,7372,8787,7002.000000000058",50,"door,door,door,door",100,12,0,type3,"clam,clam,clam,clam","desk,couch,cabinet,chair",50% type 1/50% type 3,37,5
+"35,36,39,39","true,true,true,true","8479,9656,5047,5169",50,"radio,radio,radio,radio",100,12,0,type3,"allow,allow,allow,allow","toy,doll,pen,hammer",50% type 1/50% type 3,54,6
+"71,69,93,66","true,true,true,true","4223,4117,4345,4726",50,"pen,pen,pen,pen",100,12,0,type3,"gloves,gloves,gloves,gloves","dress,belt,coat,necklace",50% type 1/50% type 3,43,7
+"24,20,18,77","true,true,true,true","6726,8525,7866,3941",50,"train,train,train,train",100,12,0,type1,"wagon,wagon,wagon,wagon","airplane,submarine,ship,bike",50% type 1/50% type 3,9,8
+"81,87,73,71","true,true,true,true","9091,7200,10802,5356",50,"scissors,scissors,scissors,scissors",100,12,0,type3,"gloves,gloves,gloves,gloves","dress,coat,necklace,shirt",50% type 1/50% type 3,50,9
+"91,24,96,92","true,true,true,true","4514,5105.000000000058,3837.999999999942,5961",50,"belt,belt,belt,belt",100,12,0,type1,"coat,coat,coat,coat","shirt,necklace,gloves,dress",50% type 1/50% type 3,32,10
+"90,86,90,89","true,true,true,true","11425.999999999942,4164,4304,9504",50,"use,use,use,use",100,12,0,type3,"bike,bike,bike,bike","submarine,train,wagon,airplane",50% type 1/50% type 3,52,11
+"74,80,38,35","true,true,true,true","8344,8116,8354,7131",50,"elephant,elephant,elephant,elephant",100,12,0,type1,"alligator,alligator,alligator,alligator","octopus,clam,buffalo,mouse",50% type 1/50% type 3,28,12
+"80,66,61,79","true,true,true,true","8171,5835,4374,5850.000000000116",50,"radio,radio,radio,radio",100,12,0,type1,"hammer,hammer,hammer,hammer","brush,pen,doll,toy",50% type 1/50% type 3,17,13

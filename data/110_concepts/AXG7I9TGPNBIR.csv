@@ -1,0 +1,260 @@
+topword,middleword,bottomword,chosenword,percentage,trial_type,question,response,rt,session,points,trialnum,datetime
+,,,,,demographic,automatic user agent check,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36",,1,0,,2022-06-01T04:49:31.662Z
+a vein,to believe,to believe,a vein,,catch,,,1488.5,1,0,2,2022-06-01T04:49:39.287Z
+lobster,dolphin,caribou,,100,feedback,,,1120.6999998092651,1,1,3,2022-06-01T04:49:41.267Z
+,,,,,demographic,what is your age?,24,4170.200000286102,1,20,,2022-06-01T04:49:46.363Z
+a story,to choose, grass,a story,,trial,,,1205.9000000953674,1,20,4,2022-06-01T04:49:47.571Z
+to choose,a story,brown,to choose,,trial,,,760.3000001907349,1,21,5,2022-06-01T04:49:48.331Z
+tiger,rat,vulture,,100,feedback,,,789.7999997138977,1,22,6,2022-06-01T04:49:49.124Z
+,,,,,demographic,what is your gender?,male,2632.5999999046326,1,32,,2022-06-01T04:49:51.768Z
+brown,a story,to win,brown,,trial,,,1271.9000000953674,1,32,7,2022-06-01T04:49:53.042Z
+a story,brown,to destroy,to destroy,,trial,,,849.6999998092651,1,33,8,2022-06-01T04:49:53.891Z
+ clothes,to destroy,brown,brown,,trial,,,1016.0999999046326,1,43,9,2022-06-01T04:49:54.907Z
+iguana,coyote,dolphin,,2,feedback,,,1117.0999999046326,1,53,10,2022-06-01T04:49:56.028Z
+,,,,,demographic,what languages do you speak?,ENGLISH,7373.300000190735,1,73,,2022-06-01T04:50:05.569Z
+yellow,a leg,an item,yellow,,trial,,,1354.3000001907349,1,73,11,2022-06-01T04:50:06.926Z
+a leg,yellow,to arrive,a leg,,trial,,,884.0999999046326,1,74,12,2022-06-01T04:50:07.810Z
+rooster,lamb,dolphin,,2,feedback,,,1324.9000000953674,1,75,13,2022-06-01T04:50:09.148Z
+,,,,,demographic,what is the highest level ofeducation you have completed?,5_bachelor,2570.8999996185303,1,89,,2022-06-01T04:50:12.863Z
+ memory,yellow,yellow, memory,,catch,,,1352.5999999046326,1,89,14,2022-06-01T04:50:14.219Z
+dolphin,goat,chicken,,100,feedback,,,806.2000002861023,1,90,15,2022-06-01T04:50:15.028Z
+,,,,,demographic,what is your first/native language?,ENGLISH,5285.099999904633,1,99,,2022-06-01T04:50:21.576Z
+ other,a grandfather,a corner, other,,trial,,,1353.4000000953674,1,99,16,2022-06-01T04:50:22.932Z
+a grandfather, other, country,a grandfather,,trial,,,815.5,1,100,17,2022-06-01T04:50:23.748Z
+perch,dolphin,lion,,91,feedback,,,884.4000000953674,1,101,18,2022-06-01T04:50:24.636Z
+,,,,,demographic,what country do you currently live in?,USA,5057.5,1,126,,2022-06-01T04:50:29.700Z
+ famous,to sell,a shoe, famous,,trial,,,1308.6000003814697,1,126,19,2022-06-01T04:50:31.010Z
+to sell, famous,to carry,to sell,,trial,,,935.7999997138977,1,127,20,2022-06-01T04:50:31.946Z
+cow,dolphin,alligator,,90,feedback,,,1102.7000002861023,1,128,21,2022-06-01T04:50:33.052Z
+,,,,,demographic,do you have any comments for us?,NICE,4178.199999809265,1,141,,2022-06-01T04:50:43.768Z
+pink,a vein, powerful,pink,,trial,,,1258.4000000953674,1,141,22,2022-06-01T04:50:45.029Z
+a vein,pink,to teach,a vein,,trial,,,757.5,1,142,23,2022-06-01T04:50:45.786Z
+cougar,dolphin,lobster,,0,feedback,,,1844.1999998092651,1,143,24,2022-06-01T04:50:47.634Z
+ grief,a heel, child, grief,,trial,,,1040.8000001907349,1,162,25,2022-06-01T04:50:50.003Z
+a heel, grief,to read,a heel,,trial,,,1007.4000000953674,1,163,26,2022-06-01T04:50:51.011Z
+bat,dog,chicken,,2,feedback,,,1383.3000001907349,1,164,27,2022-06-01T04:50:52.398Z
+white, chest, memory, memory,,trial,,,975.5,1,184,28,2022-06-01T04:50:54.546Z
+a family, memory, chest, chest,,trial,,,1048.2999997138977,1,194,29,2022-06-01T04:50:55.594Z
+bat,lion,crocodile,,0,feedback,,,982,1,204,30,2022-06-01T04:50:56.580Z
+an arm, child,a cloud,an arm,,trial,,,1064.9000000953674,1,221,31,2022-06-01T04:50:58.787Z
+ child,an arm,yellow, child,,trial,,,937.5,1,222,32,2022-06-01T04:50:59.724Z
+turtle,seal,coyote,,100,feedback,,,1385.1999998092651,1,223,33,2022-06-01T04:51:01.114Z
+to choose,the ground,to add,to add,,trial,,,932.7999997138977,1,243,34,2022-06-01T04:51:03.055Z
+to seek,to add,the ground,the ground,,trial,,,1036.2000002861023,1,253,35,2022-06-01T04:51:04.091Z
+crab,seal,cat,,0,feedback,,,937.9000000953674,1,263,36,2022-06-01T04:51:05.032Z
+a shoe,to sell, famous, famous,,trial,,,1024.4000000953674,1,272,37,2022-06-01T04:51:07.147Z
+to carry, famous,to sell,to sell,,trial,,,1097.3000001907349,1,282,38,2022-06-01T04:51:08.244Z
+rooster,pony,horse,,0,feedback,,,787.8000001907349,1,292,39,2022-06-01T04:51:09.036Z
+red,a fish,a toe,red,,trial,,,1088.4000000953674,1,375,40,2022-06-01T04:51:11.156Z
+a fish,red, truth,a fish,,trial,,,959.4000000953674,1,376,41,2022-06-01T04:51:12.115Z
+pig,bat,alligator,,3,feedback,,,1200.0999999046326,1,377,42,2022-06-01T04:51:13.318Z
+to choose, grass,to add,to choose,,trial,,,997,1,391,43,2022-06-01T04:51:15.424Z
+ grass,to choose,a story, grass,,trial,,,990.9000000953674,1,392,44,2022-06-01T04:51:16.415Z
+fawn,bat,rattlesnake,,0,feedback,,,1658.2999997138977,1,393,45,2022-06-01T04:51:18.076Z
+ grief,a heel, child, grief,,trial,,,497.2000002861023,1,413,46,2022-06-01T04:51:21.188Z
+a heel, grief,to read,to read,,trial,,,592.2999997138977,1,414,47,2022-06-01T04:51:21.780Z
+to win,to read, grief, grief,,trial,,,943,1,424,48,2022-06-01T04:51:22.723Z
+seal,goat,chicken,,7,feedback,,,861.4000000953674,1,434,49,2022-06-01T04:51:23.587Z
+to destroy,brown,a shelf,a shelf,,trial,,,998.8000001907349,1,455,50,2022-06-01T04:51:24.591Z
+to eat,a shelf,brown,to eat,,trial,,,1123.9000000953674,1,465,51,2022-06-01T04:51:25.715Z
+a shelf,to eat,red,a shelf,,trial,,,785.0999999046326,1,466,52,2022-06-01T04:51:26.500Z
+rooster,vulture,turtle,,78,feedback,,,1417.7999997138977,1,467,53,2022-06-01T04:51:27.920Z
+a nose, source,a collar,a collar,,trial,,,825.2000002861023,1,550,54,2022-06-01T04:51:29.612Z
+ money,a collar, source, source,,trial,,,882.4000000953674,1,560,55,2022-06-01T04:51:30.494Z
+frog,dolphin,elk,,1,feedback,,,641.4000000953674,1,570,56,2022-06-01T04:51:31.142Z
+ people, week,a knife,a knife,,trial,,,1487.4000000953674,1,580,57,2022-06-01T04:51:33.690Z
+orange,a knife, week, week,,trial,,,904.2000002861023,1,590,58,2022-06-01T04:51:34.594Z
+crab,seal,coyote,,15,feedback,,,1797.3999996185303,1,600,59,2022-06-01T04:51:36.395Z
+purple,red, truth, truth,,trial,,,913.3000001907349,1,626,60,2022-06-01T04:51:38.579Z
+ thin, truth,red, thin,,trial,,,852.0999999046326,1,636,61,2022-06-01T04:51:39.431Z
+ truth, thin,a table, truth,,trial,,,659.7000002861023,1,637,62,2022-06-01T04:51:40.091Z
+alligator,tiger,pig,,82,feedback,,,624.4000000953674,1,638,63,2022-06-01T04:51:40.721Z
+ child,a heel, grief, child,,trial,,,860.8999996185303,1,662,64,2022-06-01T04:51:42.368Z
+a heel, child,an arm,a heel,,trial,,,692.1000003814697,1,663,65,2022-06-01T04:51:43.060Z
+seal,zebra,peacock,,88,feedback,,,665.8000001907349,1,664,66,2022-06-01T04:51:43.728Z
+yellow,a leg,an item,an item,,trial,,,744.0999999046326,1,697,67,2022-06-01T04:51:45.515Z
+a roof,an item,a leg,a leg,,trial,,,688.4000000953674,1,707,68,2022-06-01T04:51:46.203Z
+rat,lamb,rooster,,12,feedback,,,709.6999998092651,1,717,69,2022-06-01T04:51:46.916Z
+a shoe, money, famous, famous,,trial,,,874,1,738,70,2022-06-01T04:51:49.028Z
+to carry, famous, money, money,,trial,,,737.8000001907349,1,748,71,2022-06-01T04:51:49.766Z
+bat,caribou,duck,,55,feedback,,,698.5999999046326,1,758,72,2022-06-01T04:51:50.468Z
+to sell,to steal, clothes,to sell,,trial,,,2648.7000002861023,1,836,73,2022-06-01T04:51:54.395Z
+to steal,to sell, famous,to steal,,trial,,,791.6999998092651,1,837,74,2022-06-01T04:51:55.187Z
+bat,bear,crocodile,,87,feedback,,,704.5999999046326,1,838,75,2022-06-01T04:51:55.896Z
+to teach, soft,a gift,a gift,,trial,,,1270.0999999046326,1,864,76,2022-06-01T04:51:57.171Z
+a woman,a gift, soft, soft,,trial,,,688.5999999046326,1,874,77,2022-06-01T04:51:57.860Z
+dog,turkey,duck,,15,feedback,,,743.0999999046326,1,884,78,2022-06-01T04:51:58.606Z
+ hair,a cloud,a ladder,a ladder,,trial,,,872.6999998092651,1,978,79,2022-06-01T04:52:00.667Z
+ sick,a ladder,a cloud,a cloud,,trial,,,768.5,1,988,80,2022-06-01T04:52:01.435Z
+chicken,goat,lion,,0,feedback,,,1529.5999999046326,1,998,81,2022-06-01T04:52:02.969Z
+a word,a mistake,a collar,a collar,,trial,,,2145.199999809265,1,1019,82,2022-06-01T04:52:06.244Z
+ money,a collar,a mistake,a mistake,,trial,,,1105.8000001907349,1,1029,83,2022-06-01T04:52:07.350Z
+cougar,dolphin,turtle,,0,feedback,,,1074.8999996185303,1,1039,84,2022-06-01T04:52:08.429Z
+ gentle, naked, week, week,,trial,,,1085.9000000953674,1,1058,85,2022-06-01T04:52:10.675Z
+a knife, week, naked, naked,,trial,,,542,1,1068,86,2022-06-01T04:52:11.216Z
+elephant,dolphin,lobster,,0,feedback,,,713.5999999046326,1,1078,87,2022-06-01T04:52:11.933Z
+to teach, soft,a gift,to teach,,trial,,,985.7000002861023,1,1092,88,2022-06-01T04:52:14.078Z
+ soft,to teach,a boot, soft,,trial,,,780.2999997138977,1,1093,89,2022-06-01T04:52:14.858Z
+turtle,seal,elk,,81,feedback,,,1126.9000000953674,1,1094,90,2022-06-01T04:52:15.988Z
+ hair,a cloud,a ladder,a ladder,,trial,,,2327.9000000953674,1,1138,91,2022-06-01T04:52:19.660Z
+ sick,a ladder,a cloud,a cloud,,trial,,,859.2000002861023,1,1148,92,2022-06-01T04:52:20.519Z
+vulture,penguin,seal,,1,feedback,,,756,1,1158,93,2022-06-01T04:52:21.278Z
+to know,a business,a corner,a corner,,trial,,,945.3000001907349,1,1173,94,2022-06-01T04:52:22.228Z
+ meat,a corner,a business,a business,,trial,,,796.3999996185303,1,1183,95,2022-06-01T04:52:23.024Z
+toad,seal,lamb,,100,feedback,,,1820.0999999046326,1,1193,96,2022-06-01T04:52:24.848Z
+red, meat,a toe,a toe,,trial,,,1186,1,1205,97,2022-06-01T04:52:28.665Z
+ child,a toe, meat, meat,,trial,,,978.5999999046326,1,1215,98,2022-06-01T04:52:29.643Z
+perch,seal,pony,,0,feedback,,,934.5999999046326,1,1225,99,2022-06-01T04:52:30.581Z
+a boot,to choose,a story,a boot,,trial,,,1239.4000000953674,1,1235,100,2022-06-01T04:52:32.873Z
+to choose,a boot,to bother,to choose,,trial,,,769.2999997138977,1,1236,101,2022-06-01T04:52:33.643Z
+rat,horse,rooster,,94,feedback,,,754.3999996185303,1,1237,102,2022-06-01T04:52:34.403Z
+ cheap, clothes, week, week,,trial,,,917.7000002861023,1,1260,103,2022-06-01T04:52:35.326Z
+ people, week, clothes, clothes,,trial,,,780.2999997138977,1,1270,104,2022-06-01T04:52:36.106Z
+crab,dolphin,elk,,0,feedback,,,726.2000002861023,1,1280,105,2022-06-01T04:52:36.836Z
+ grief,a shoe,a cheek,a cheek,,trial,,,1436.5,1,1289,106,2022-06-01T04:52:39.591Z
+ milk,a cheek,a shoe,a shoe,,trial,,,740.8000001907349,1,1299,107,2022-06-01T04:52:40.332Z
+peacock,crocodile,iguana,,13,feedback,,,644.2999997138977,1,1309,108,2022-06-01T04:52:40.979Z
+to forget,a message, dish,to forget,,trial,,,1068.5999999046326,1,1397,109,2022-06-01T04:52:43.031Z
+a message,to forget,to seek,a message,,trial,,,760.9000000953674,1,1398,110,2022-06-01T04:52:43.792Z
+chimp,beaver,turtle,,88,feedback,,,757.5,1,1399,111,2022-06-01T04:52:44.553Z
+ clever,a shirt, week, week,,trial,,,972.2999997138977,1,1435,112,2022-06-01T04:52:46.612Z
+a knife, week,a shirt,a shirt,,trial,,,734.9000000953674,1,1445,113,2022-06-01T04:52:47.347Z
+toad,vulture,rooster,,0,feedback,,,717.7999997138977,1,1455,114,2022-06-01T04:52:48.068Z
+ weak,to deceive,to sell, weak,,trial,,,888.0999999046326,1,1512,115,2022-06-01T04:52:50.013Z
+to deceive, weak,a nest,to deceive,,trial,,,774.1000003814697,1,1513,116,2022-06-01T04:52:50.787Z
+cougar,seal,frog,,100,feedback,,,741.7999997138977,1,1514,117,2022-06-01T04:52:51.532Z
+ sad, cheap, famous, famous,,trial,,,849,1,1527,118,2022-06-01T04:52:53.429Z
+to carry, famous, cheap, cheap,,trial,,,696.8000001907349,1,1537,119,2022-06-01T04:52:54.126Z
+gorilla,bat,rattlesnake,,0,feedback,,,756.8000001907349,1,1547,120,2022-06-01T04:52:54.886Z
+an arm, child,a cloud,a cloud,,trial,,,5250.400000095367,1,1568,121,2022-06-01T04:53:00.141Z
+ hair,a cloud, child, child,,trial,,,926.9000000953674,1,1578,122,2022-06-01T04:53:01.068Z
+pony,dolphin,perch,,0,feedback,,,812,1,1588,123,2022-06-01T04:53:01.883Z
+ pain,a word,a chair,a chair,,trial,,,1018.1999998092651,1,1608,124,2022-06-01T04:53:02.908Z
+to believe,a chair,a word,to believe,,trial,,,1090.5999999046326,1,1618,125,2022-06-01T04:53:03.998Z
+a chair,to believe,a pillow,a chair,,trial,,,758.2000002861023,1,1619,126,2022-06-01T04:53:04.756Z
+camel,caribou,duck,,100,feedback,,,1770.0999999046326,1,1620,127,2022-06-01T04:53:06.531Z
+gray,a nest, life, life,,trial,,,922.5999999046326,1,1681,128,2022-06-01T04:53:08.438Z
+a bed, life,a nest,a nest,,trial,,,920,1,1691,129,2022-06-01T04:53:09.358Z
+chicken,sheep,gorilla,,0,feedback,,,844.5,1,1701,130,2022-06-01T04:53:10.208Z
+orange,a knife, powerful, powerful,,trial,,,1007.3000001907349,1,1716,131,2022-06-01T04:53:11.220Z
+ under, powerful,a knife,a knife,,trial,,,886.9000000953674,1,1726,132,2022-06-01T04:53:12.107Z
+alligator,seal,camel,,0,feedback,,,1644.0999999046326,1,1736,133,2022-06-01T04:53:13.755Z
+a family, memory,to read,a family,,trial,,,946.2999997138977,1,1743,134,2022-06-01T04:53:15.730Z
+ memory,a family,a corner, memory,,trial,,,833.9000000953674,1,1744,135,2022-06-01T04:53:16.564Z
+camel,seal,perch,,98,feedback,,,787,1,1745,136,2022-06-01T04:53:17.358Z
+to carry, famous, under, under,,trial,,,1183.5,1,1758,137,2022-06-01T04:53:19.821Z
+black, under, famous, famous,,trial,,,1687.8000001907349,1,1768,138,2022-06-01T04:53:21.508Z
+pony,bat,rattlesnake,,0,feedback,,,1308.5999999046326,1,1778,139,2022-06-01T04:53:22.820Z
+to choose, grass,to add,to add,,trial,,,1317.0999999046326,1,1798,140,2022-06-01T04:53:25.776Z
+to seek,to add, grass, grass,,trial,,,823.4000000953674,1,1808,141,2022-06-01T04:53:26.599Z
+caribou,duck,chicken,,0,feedback,,,817.2999997138977,1,1818,142,2022-06-01T04:53:27.420Z
+to sell,to destroy, clothes, clothes,,trial,,,1212.7000002861023,1,1884,143,2022-06-01T04:53:28.638Z
+ week, clothes,to destroy,to destroy,,trial,,,1038.2999997138977,1,1894,144,2022-06-01T04:53:29.676Z
+rooster,sheep,mouse,,0,feedback,,,1376.7999997138977,1,1904,145,2022-06-01T04:53:31.055Z
+orange,a knife, powerful, powerful,,trial,,,1187.4000000953674,1,1920,146,2022-06-01T04:53:33.370Z
+ under, powerful,a knife,a knife,,trial,,,1100.5,1,1930,147,2022-06-01T04:53:34.471Z
+crocodile,gorilla,fawn,,0,feedback,,,1399,1,1940,148,2022-06-01T04:53:35.873Z
+an item,an arm,yellow,yellow,,trial,,,1210.5,1,1958,149,2022-06-01T04:53:38.261Z
+to arrive,yellow,an arm,an arm,,trial,,,949.5999999046326,1,1968,150,2022-06-01T04:53:39.210Z
+alligator,bat,deer,,0,feedback,,,1572.7000002861023,1,1978,151,2022-06-01T04:53:40.788Z
+to win,to read, weight, weight,,trial,,,1840.3000001907349,1,1989,152,2022-06-01T04:53:43.731Z
+to hear, weight,to read,to read,,trial,,,1160.4000000953674,1,1999,153,2022-06-01T04:53:44.891Z
+rooster,pig,gorilla,,0,feedback,,,5882,1,2009,154,2022-06-01T04:53:50.776Z
+a reason, people, thick, thick,,trial,,,1290.4000000953674,1,2025,155,2022-06-01T04:53:53.108Z
+a table, thick, people, people,,trial,,,1070.3999996185303,1,2035,156,2022-06-01T04:53:54.179Z
+alligator,bat,caribou,,0,feedback,,,3106.199999809265,1,2045,157,2022-06-01T04:53:57.288Z
+a business,to win,to speak,to speak,,trial,,,1117.4000000953674,1,2059,158,2022-06-01T04:53:59.459Z
+a chair,to speak,to win,to win,,trial,,,937.6999998092651,1,2069,159,2022-06-01T04:54:00.396Z
+coyote,dog,turkey,,0,feedback,,,1428.5999999046326,1,2079,160,2022-06-01T04:54:01.828Z
+to grow,black, truth, truth,,trial,,,1152.2999997138977,1,2079,161,2022-06-01T04:54:04.059Z
+ thin, truth,black,black,,trial,,,895.7000002861023,1,2089,162,2022-06-01T04:54:04.955Z
+peacock,horse,fawn,,0,feedback,,,1080.5999999046326,1,2099,163,2022-06-01T04:54:06.040Z
+blue, sick, noise, noise,,trial,,,1228.1999998092651,1,2156,164,2022-06-01T04:54:07.273Z
+to melt, noise, sick, sick,,trial,,,1075,1,2166,165,2022-06-01T04:54:08.348Z
+cougar,dolphin,toad,,0,feedback,,,968.1999998092651,1,2176,166,2022-06-01T04:54:09.319Z
+ thick,to forget, chest, chest,,trial,,,1406.5,1,2188,167,2022-06-01T04:54:11.748Z
+white, chest,to forget,to forget,,trial,,,974.8000001907349,1,2198,168,2022-06-01T04:54:12.723Z
+caribou,beaver,alligator,,0,feedback,,,945.2000002861023,1,2208,169,2022-06-01T04:54:13.672Z
+a reason, people, thick, thick,,trial,,,1462.7999997138977,1,2215,170,2022-06-01T04:54:16.140Z
+a table, thick, people, people,,trial,,,1215.7000002861023,1,2225,171,2022-06-01T04:54:17.356Z
+perch,seal,coyote,,0,feedback,,,1274.4000000953674,1,2235,172,2022-06-01T04:54:18.636Z
+to steal,to carry,to hear,to hear,,trial,,,1410.9000000953674,1,2248,173,2022-06-01T04:54:21.350Z
+ weight,to hear,to carry,to carry,,trial,,,1173.0999999046326,1,2258,174,2022-06-01T04:54:22.523Z
+dolphin,tiger,rattlesnake,,0,feedback,,,1872.7000002861023,1,2268,175,2022-06-01T04:54:24.399Z
+green, noise,to melt,to melt,,trial,,,1015.1000003814697,1,2278,176,2022-06-01T04:54:25.419Z
+a table,to melt, noise, noise,,trial,,,1153.5999999046326,1,2288,177,2022-06-01T04:54:26.573Z
+bat,pig,rooster,,0,feedback,,,899.0999999046326,1,2298,178,2022-06-01T04:54:27.475Z
+to forget,a message, dish, dish,,trial,,,1128.5,1,2314,179,2022-06-01T04:54:29.772Z
+a mistake, dish,a message,a message,,trial,,,867.8999996185303,1,2324,180,2022-06-01T04:54:30.639Z
+dolphin,horse,chicken,,0,feedback,,,906.1999998092651,1,2334,181,2022-06-01T04:54:31.547Z
+ chest,to add,to seek,to seek,,trial,,,1480.3000001907349,1,2347,182,2022-06-01T04:54:35.019Z
+a story,to seek,to add,to add,,trial,,,1007.5,1,2357,183,2022-06-01T04:54:36.027Z
+alligator,iguana,coyote,,0,feedback,,,990.0999999046326,1,2367,184,2022-06-01T04:54:37.021Z
+a knife, week, people, people,,trial,,,1064.3000001907349,1,2367,185,2022-06-01T04:54:39.106Z
+a reason, people, week, week,,trial,,,975.6999998092651,1,2377,186,2022-06-01T04:54:40.082Z
+gorilla,rat,toad,,0,feedback,,,1246.3000001907349,1,2387,187,2022-06-01T04:54:41.331Z
+white, chest, memory, memory,,trial,,,978.5999999046326,1,2402,188,2022-06-01T04:54:42.315Z
+a family, memory, chest, chest,,trial,,,1019.5,1,2412,189,2022-06-01T04:54:43.334Z
+turkey,penguin,seal,,0,feedback,,,871.7999997138977,1,2422,190,2022-06-01T04:54:44.210Z
+to grow,white,a shelf,a shelf,,trial,,,1314.7000002861023,1,2439,191,2022-06-01T04:54:46.821Z
+to eat,a shelf,white,white,,trial,,,798.5,1,2449,192,2022-06-01T04:54:47.619Z
+cougar,bat,rattlesnake,,0,feedback,,,795.8000001907349,1,2459,193,2022-06-01T04:54:48.419Z
+ famous,to sell,a shoe, famous,,trial,,,899.5,1,2479,194,2022-06-01T04:54:50.339Z
+to sell, famous,to carry,to sell,,trial,,,768,1,2480,195,2022-06-01T04:54:51.107Z
+chimp,goat,chicken,,100,feedback,,,821.4000000953674,1,2481,196,2022-06-01T04:54:51.932Z
+to carry, famous, under, under,,trial,,,991.3000001907349,1,2499,197,2022-06-01T04:54:53.965Z
+black, under, famous, famous,,trial,,,805.1999998092651,1,2509,198,2022-06-01T04:54:54.770Z
+deer,dolphin,frog,,0,feedback,,,1752,1,2519,199,2022-06-01T04:54:56.525Z
+a box,to bother, thick, thick,,trial,,,1378.2999997138977,1,2533,200,2022-06-01T04:54:58.931Z
+a table, thick,to bother,to bother,,trial,,,863.5999999046326,1,2543,201,2022-06-01T04:54:59.795Z
+elephant,lamb,turkey,,0,feedback,,,963.5,1,2553,202,2022-06-01T04:55:00.761Z
+ milk,a nose,a picture,a picture,,trial,,,1647.2000002861023,1,2560,203,2022-06-01T04:55:02.413Z
+ dish,a picture,a nose,a nose,,trial,,,1046.7999997138977,1,2570,204,2022-06-01T04:55:03.460Z
+chicken,duck,crocodile,,0,feedback,,,845.1999998092651,1,2580,205,2022-06-01T04:55:04.308Z
+ sick, sick, source, source,,catch,,,916,1,2580,206,2022-06-01T04:55:06.307Z
+elk,zebra,peacock,,0,feedback,,,1087.2000002861023,1,2590,207,2022-06-01T04:55:07.397Z
+a shoe, money, famous, famous,,trial,,,1149.6999998092651,1,2590,208,2022-06-01T04:55:09.635Z
+to carry, famous, money, money,,trial,,,1159.8000001907349,1,2600,209,2022-06-01T04:55:10.795Z
+rattlesnake,turtle,perch,,0,feedback,,,1231.9000000953674,1,2610,210,2022-06-01T04:55:12.030Z
+ naked, milk,red,red,,trial,,,1269.0999999046326,1,2618,211,2022-06-01T04:55:14.756Z
+a shelf,red, milk, milk,,trial,,,1081.5,1,2628,212,2022-06-01T04:55:15.837Z
+zebra,horse,chicken,,1,feedback,,,1855.5,1,2638,213,2022-06-01T04:55:17.695Z
+ week, clothes, clever, clever,,trial,,,1188.7999997138977,1,2638,214,2022-06-01T04:55:20.010Z
+a teacher, clever, clothes, clothes,,trial,,,929.8000001907349,1,2648,215,2022-06-01T04:55:20.940Z
+rat,vulture,turkey,,0,feedback,,,778.7000002861023,1,2658,216,2022-06-01T04:55:21.721Z
+a fish,to melt,a table,a fish,,trial,,,1545.5999999046326,1,2713,217,2022-06-01T04:55:24.466Z
+to melt,a fish,red,to melt,,trial,,,780.4000000953674,1,2714,218,2022-06-01T04:55:25.246Z
+chimp,dolphin,crab,,91,feedback,,,843.1999998092651,1,2715,219,2022-06-01T04:55:26.094Z
+to melt,to disturb,a box,to melt,,trial,,,980.2000002861023,1,2730,220,2022-06-01T04:55:28.201Z
+to disturb,to melt,a fish,to disturb,,trial,,,916.1999998092651,1,2731,221,2022-06-01T04:55:29.117Z
+,,,,90,feedback,,,847.0999999046326,1,2732,222,2022-06-01T04:55:29.967Z
+to eat,a shelf,a vein,a vein,,trial,,,1105,1,,223,2022-06-01T04:55:32.020Z
+ powerful,a vein,a shelf,a shelf,,trial,,,831.8000001907349,1,,224,2022-06-01T04:55:32.852Z
+,,,,100,feedback,,,756.4000000953674,1,,225,2022-06-01T04:55:33.611Z
+a ladder,gray, truth,a ladder,,trial,,,1131.6999998092651,1,,226,2022-06-01T04:55:35.651Z
+gray,a ladder, sick,gray,,trial,,,599.8000001907349,1,,227,2022-06-01T04:55:36.250Z
+,,,,3,feedback,,,2200.9000000953674,1,,228,2022-06-01T04:55:38.456Z
+ gentle, naked, week, week,,trial,,,1025.1000003814697,1,,229,2022-06-01T04:55:40.460Z
+ people, week, naked, naked,,trial,,,919.7999997138977,1,,230,2022-06-01T04:55:41.380Z
+,,,,90,feedback,,,1286.2999997138977,1,,231,2022-06-01T04:55:42.669Z
+a shirt, naked, gentle, gentle,,trial,,,1250,1,,232,2022-06-01T04:55:44.981Z
+to teach, gentle, naked, naked,,trial,,,887.6999998092651,1,,233,2022-06-01T04:55:45.868Z
+,,,,0,feedback,,,876.4000000953674,1,,234,2022-06-01T04:55:46.747Z
+a nest, thick,a table,a table,,trial,,,968.7000002861023,1,,235,2022-06-01T04:55:48.628Z
+a vein,a table, thick, thick,,trial,,,1032.0999999046326,1,,236,2022-06-01T04:55:49.660Z
+,,,,0,feedback,,,1314,1,,237,2022-06-01T04:55:50.977Z
+a cloud,a teacher,a boot,a boot,,trial,,,1159.5,1,,238,2022-06-01T04:55:53.034Z
+to bother,a boot,a teacher,a teacher,,trial,,,1033.5,1,,239,2022-06-01T04:55:54.068Z
+,,,,0,feedback,,,1110.1000003814697,1,,240,2022-06-01T04:55:55.181Z
+ dirt,a pillow,a grandfather,a grandfather,,trial,,,1160.3000001907349,1,,241,2022-06-01T04:55:57.427Z
+ other,a grandfather,a pillow,a pillow,,trial,,,960.4000000953674,1,,242,2022-06-01T04:55:58.388Z
+,,,,0,feedback,,,1453.2999997138977,1,,243,2022-06-01T04:55:59.844Z
+a reason, people, thick, thick,,trial,,,1494.8000001907349,1,,244,2022-06-01T04:56:02.355Z
+a table, thick, people, people,,trial,,,674.5999999046326,1,,245,2022-06-01T04:56:03.029Z
+,,,,0,feedback,,,1689.4000000953674,1,,246,2022-06-01T04:56:04.722Z
+black, under, source, source,,trial,,,1143.5,1,,247,2022-06-01T04:56:06.851Z
+a nose, source, under, under,,trial,,,1121.7000002861023,1,,248,2022-06-01T04:56:07.973Z
+,,,,0,feedback,,,1381.8999996185303,1,,249,2022-06-01T04:56:09.359Z
+to teach, soft,a gift,a gift,,trial,,,1192.3000001907349,1,,250,2022-06-01T04:56:11.520Z
+a woman,a gift, soft, soft,,trial,,,1052.8000001907349,1,,251,2022-06-01T04:56:12.572Z
+,,,,,cap,completion_code,n5q3am1mkxcy6,,1,,251,2022-06-01T04:56:21.747Z

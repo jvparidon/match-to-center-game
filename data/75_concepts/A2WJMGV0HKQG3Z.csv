@@ -1,0 +1,6 @@
+topword,middleword,bottomword,chosenword,percentage,trial_type,question,response,rt,session,points,trialnum,datetime
+,,,,,demographic,automatic user agent check,"Mozilla/5.0 (X11; CrOS x86_64 14816.131.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36",,1,0,,2022-12-15T12:06:41.322Z
+a frog,to stand,a whale,a whale,,trial,,,6442.5,1,0,2,2022-12-15T12:07:41.195Z
+a horse,a whale,to stand,a horse,,trial,,,21073,1,10,3,2022-12-15T12:08:02.268Z
+a whale,a horse,an octopus,an octopus,,trial,,,3657.7999999998137,1,11,4,2022-12-15T12:08:05.926Z
+an elephant,an octopus,a horse,a horse,,trial,,,4302.200000000186,1,21,5,2022-12-15T12:08:10.228Z

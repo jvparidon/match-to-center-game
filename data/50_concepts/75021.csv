@@ -1,0 +1,65 @@
+sliders,choices,rt,default,left_words,max,max_duration,min,question_type,right_words,slider_words,triad_mix,trial,trial_num
+"81,24,18,23","true,true,true,false","7475.999999999985,4767,4313,3181",50,"allow,allow,allow,allow",100,12,0,type1,"exist,exist,exist,exist","protect,find,make,work",80% type 1/20% type 3,34,3
+"37,87,100,85","true,true,true,true","4334.999999999985,2601,2442.0000000000146,1848.9999999999854",50,"door,door,door,door",100,12,0,type1,"chair,chair,chair,chair","cushion,couch,desk,cabinet",80% type 1/20% type 3,30,4
+"75,79,81,24","true,true,true,true","2610,1885.9999999999854,2014,2726",50,"belt,belt,belt,belt",100,12,0,type1,"shirt,shirt,shirt,shirt","gloves,coat,dress,necklace",80% type 1/20% type 3,43,5
+"18,47,50,46","true,false,false,false","5533,3501,4744,4082",50,"lion,lion,lion,lion",100,12,0,type1,"elephant,elephant,elephant,elephant","zebra,turtle,dolphin,squirrel",80% type 1/20% type 3,21,6
+"34,27,74,74","true,true,true,true","3848.999999999971,3901.000000000029,2443.999999999971,2873",50,"belt,belt,belt,belt",100,12,0,type1,"coat,coat,coat,coat","necklace,gloves,dress,shirt",80% type 1/20% type 3,15,7
+"35,78,27,23","true,true,true,true","3778,4794,2834,3183",50,"make,make,make,make",100,12,0,type1,"allow,allow,allow,allow","work,protect,exist,find",80% type 1/20% type 3,27,8
+"82,30,75,77","true,true,true,true","3822,3158,4353,4725",50,"oven,oven,oven,oven",100,12,0,type1,"fork,fork,fork,fork","scissors,pot,knife,dish",80% type 1/20% type 3,45,9
+"70,33,79,68","true,true,true,true","3205,7511,2909,2624",50,"find,find,find,find",100,12,0,type1,"protect,protect,protect,protect","allow,use,exist,work",80% type 1/20% type 3,41,10
+"49,25,80,84","false,true,true,true","4620,5012,3368,2606",50,"submarine,submarine,submarine,submarine",100,12,0,type1,"wagon,wagon,wagon,wagon","bike,ship,airplane,train",80% type 1/20% type 3,25,11
+"50,90,34,89","false,true,true,true","5281,4703.000000000029,3375.999999999971,2114",50,"train,train,train,train",100,12,0,type3,"dolphin,dolphin,dolphin,dolphin","ship,airplane,wagon,submarine",80% type 1/20% type 3,58,12
+"57,34,50,77","false,false,false,true","5341,3384.000000000029,2351.999999999971,3350",50,"pen,pen,pen,pen",100,12,0,type1,"brush,brush,brush,brush","toy,radio,hammer,doll",80% type 1/20% type 3,19,13
+"31,39,35,21","true,true,true,true","4367,3235,2243,1838",50,"knife,knife,knife,knife",100,12,0,type3,"lion,lion,lion,lion","scissors,fork,dish,oven",80% type 1/20% type 3,64,14
+"25,26,24,84","true,true,true,true","2977,1592.0000000000582,1933.9999999999418,1815",50,"alligator,alligator,alligator,alligator",100,12,0,type1,"octopus,octopus,octopus,octopus","buffalo,lion,mouse,turtle",80% type 1/20% type 3,42,15
+"76,22,16,79","true,true,true,true","4138.999999999942,2761,1826.0000000000582,1604.9999999999418",50,"chair,chair,chair,chair",100,12,0,type1,"cabinet,cabinet,cabinet,cabinet","cushion,desk,door,couch",80% type 1/20% type 3,37,16
+"24,33,88,32","true,true,true,false","4047,3977,2058,2682",50,"fork,fork,fork,fork",100,12,0,type1,"knife,knife,knife,knife","pot,oven,scissors,dish",80% type 1/20% type 3,10,17
+100,true,5677,50,left,100,12,0,catch,right,move this slider to the right,80% type 1/20% type 3,4,18
+"35,96,90,26","true,true,true,true","3535,4160,2184,2457",50,"pot,pot,pot,pot",100,12,0,type1,"scissors,scissors,scissors,scissors","oven,knife,fork,dish",80% type 1/20% type 3,17,19
+"25,100,50,33","true,true,false,true","3108,8205,2074,2609",50,"hammer,hammer,hammer,hammer",100,12,0,type1,"toy,toy,toy,toy","pen,doll,radio,brush",80% type 1/20% type 3,26,20
+0,true,2577,50,left,100,12,0,catch,right,move this slider to the left,80% type 1/20% type 3,5,21
+0,true,2310,50,left,100,12,0,catch,right,move this slider to the left,80% type 1/20% type 3,3,22
+100,true,2571.000000000058,50,left,100,12,0,catch,right,move this slider to the right,80% type 1/20% type 3,6,23
+"75,83,32,82","true,true,true,true","2723,1802,1875,1523",50,"oven,oven,oven,oven",100,12,0,type1,"knife,knife,knife,knife","fork,scissors,pot,dish",80% type 1/20% type 3,52,24
+"56,50,70,100","false,false,true,true","4028,2184,2184.000000000058,2565.999999999942",50,"turtle,turtle,turtle,turtle",100,12,0,type1,"squirrel,squirrel,squirrel,squirrel","elephant,buffalo,clam,mouse",80% type 1/20% type 3,35,25
+"72,29,39,34","true,true,true,true","1954,1828,2407,2857",50,"buffalo,buffalo,buffalo,buffalo",100,12,0,type1,"snail,snail,snail,snail","alligator,turtle,zebra,octopus",80% type 1/20% type 3,7,26
+"15,95,31,80","true,true,true,true","2409.999999999942,2486,2073.000000000058,3349.999999999942",50,"gloves,gloves,gloves,gloves",100,12,0,type1,"dress,dress,dress,dress","necklace,shirt,belt,coat",80% type 1/20% type 3,22,27
+"31,83,86,18","true,true,true,true","4567,3066,1411,1605",50,"make,make,make,make",100,12,0,type3,"clam,clam,clam,clam","mouse,turtle,lion,dolphin",80% type 1/20% type 3,61,28
+"73,90,50,50","true,true,false,false","2373,2726,2427.000000000058,1562.9999999999418",50,"submarine,submarine,submarine,submarine",100,12,0,type1,"ship,ship,ship,ship","bike,airplane,wagon,train",80% type 1/20% type 3,53,29
+"29,29,25,80","true,true,true,true","2296,1400,1608,1675",50,"alligator,alligator,alligator,alligator",100,12,0,type1,"snail,snail,snail,snail","squirrel,clam,fox,mouse",80% type 1/20% type 3,49,30
+"62,77,66,74","false,false,true,true","3524,1310,1517,1981",50,"bike,bike,bike,bike",100,12,0,type1,"train,train,train,train","submarine,airplane,ship,wagon",80% type 1/20% type 3,18,31
+"22,28,76,22","true,true,true,true","2788,1242,1199.0000000000582,1123.9999999999418",50,"toy,toy,toy,toy",100,12,0,type1,"doll,doll,doll,doll","pen,hammer,brush,radio",80% type 1/20% type 3,40,32
+"19,30,31,28","true,true,true,true","2114,2076,1893,1656",50,"hammer,hammer,hammer,hammer",100,12,0,type1,"radio,radio,radio,radio","pen,brush,toy,doll",80% type 1/20% type 3,47,33
+"91,91,83,93","true,true,true,true","3111,1843,1258,1899",50,"oven,oven,oven,oven",100,12,0,type1,"scissors,scissors,scissors,scissors","fork,pot,dish,knife",80% type 1/20% type 3,31,34
+"18,30,26,24","true,true,true,true","2779,1459,1208,1215",50,"knife,knife,knife,knife",100,12,0,type1,"scissors,scissors,scissors,scissors","pot,oven,dish,fork",80% type 1/20% type 3,24,35
+"84,87,86,21","true,true,true,true","1462,1250,1267,1523",50,"dress,dress,dress,dress",100,12,0,type1,"coat,coat,coat,coat","gloves,shirt,necklace,belt",80% type 1/20% type 3,8,36
+"83,17,22,26","true,true,true,true","1903.9999999999418,1358.0000000000582,1471,1369.9999999999418",50,"use,use,use,use",100,12,0,type1,"work,work,work,work","make,allow,protect,find",80% type 1/20% type 3,13,37
+"22,90,28,90","true,true,true,true","1634,1259,1461,1430.0000000000582",50,"coat,coat,coat,coat",100,12,0,type1,"gloves,gloves,gloves,gloves","dress,necklace,shirt,belt",80% type 1/20% type 3,29,38
+"83,36,69,34","true,true,true,true","3749,1435,1225.0000000000582,1347.9999999999418",50,"belt,belt,belt,belt",100,12,0,type3,"knife,knife,knife,knife","gloves,dress,coat,shirt",80% type 1/20% type 3,63,39
+"72,26,86,37","true,true,true,true","1413,1358,1910,1891",50,"make,make,make,make",100,12,0,type1,"protect,protect,protect,protect","allow,find,exist,work",80% type 1/20% type 3,48,40
+"75,37,81,32","true,true,true,true","1433.9999999999418,1424.9999999999418,1601,1490.0000000000582",50,"snail,snail,snail,snail",100,12,0,type3,"brush,brush,brush,brush","radio,toy,hammer,pen",80% type 1/20% type 3,66,41
+"70,32,74,38","true,true,true,true","1211,1409,1076,1180.9999999999418",50,"coat,coat,coat,coat",100,12,0,type1,"necklace,necklace,necklace,necklace","dress,gloves,belt,shirt",80% type 1/20% type 3,36,42
+"75,77,83,24","true,true,true,true","2826,1752,3094,3930",50,"submarine,submarine,submarine,submarine",100,12,0,type1,"train,train,train,train","wagon,bike,airplane,ship",80% type 1/20% type 3,46,43
+"25,14,95,99","true,true,true,true","3039,4277,2008,2407",50,"couch,couch,couch,couch",100,12,0,type1,"door,door,door,door","cabinet,cushion,desk,chair",80% type 1/20% type 3,51,44
+"23,11,11,21","true,true,true,true","2830,3078,1992,2332.0000000001164",50,"train,train,train,train",100,12,0,type1,"airplane,airplane,airplane,airplane","ship,submarine,wagon,bike",80% type 1/20% type 3,39,45
+"30,24,50,50","true,true,false,false","9420,1635,2002,1005",50,"clam,clam,clam,clam",100,12,0,type1,"buffalo,buffalo,buffalo,buffalo","turtle,elephant,alligator,octopus",80% type 1/20% type 3,14,46
+"23,92,9,88","true,true,true,true","8367,2077,2275,4441",50,"couch,couch,couch,couch",100,12,0,type1,"chair,chair,chair,chair","cushion,desk,cabinet,door",80% type 1/20% type 3,23,47
+"16,20,19,50","true,true,true,false","6573,1775,2811,2648",50,"couch,couch,couch,couch",100,12,0,type1,"cushion,cushion,cushion,cushion","cabinet,desk,door,chair",80% type 1/20% type 3,44,48
+"72,80,31,75","true,true,true,true","2138,2460,1918,2823",50,"radio,radio,radio,radio",100,12,0,type1,"brush,brush,brush,brush","pen,toy,doll,hammer",80% type 1/20% type 3,54,49
+"18,9,30,20","true,true,true,true","3263.0000000001164,2190.9999999998836,2169,1732",50,"shirt,shirt,shirt,shirt",100,12,0,type3,"airplane,airplane,airplane,airplane","necklace,belt,dress,gloves",80% type 1/20% type 3,56,50
+"100,100,100,100","true,true,false,true","2180,1410,1174,1390",50,"doll,doll,doll,doll",100,12,0,type3,"ship,ship,ship,ship","bike,airplane,submarine,train",80% type 1/20% type 3,65,51
+"9,6,71,20","true,true,true,true","2569,3802,1334.0000000001164,2206.9999999998836",50,"allow,allow,allow,allow",100,12,0,type1,"find,find,find,find","exist,protect,use,make",80% type 1/20% type 3,20,52
+"98,100,100,92","true,true,true,true","2079,1475,1393,2881",50,"snail,snail,snail,snail",100,12,0,type3,"chair,chair,chair,chair","desk,cabinet,door,couch",80% type 1/20% type 3,60,53
+"1,0,0,11","true,true,true,true","2194,1943,1643,3866.0000000001164",50,"knife,knife,knife,knife",100,12,0,type3,"coat,coat,coat,coat","fork,dish,scissors,pot",80% type 1/20% type 3,57,54
+"0,0,0,100","true,true,true,true","4804,1993,2093,2856",50,"bike,bike,bike,bike",100,12,0,type1,"wagon,wagon,wagon,wagon","airplane,ship,train,submarine",80% type 1/20% type 3,32,55
+"9,5,100,0","true,true,true,true","2034,1975,2410,2082",50,"shirt,shirt,shirt,shirt",100,12,0,type1,"necklace,necklace,necklace,necklace","gloves,dress,belt,coat",80% type 1/20% type 3,50,56
+"10,24,16,12","true,true,true,true","2368,1202,4584,1359",50,"protect,protect,protect,protect",100,12,0,type3,"shirt,shirt,shirt,shirt","allow,work,find,make",80% type 1/20% type 3,62,57
+"88,84,17,100","true,true,true,true","2798,2645,1318,2123.0000000001164",50,"dress,dress,dress,dress",100,12,0,type3,"doll,doll,doll,doll","hammer,pen,toy,brush",80% type 1/20% type 3,59,58
+"2,100,15,100","true,true,true,true","1788,2569.0000000001164,2191.9999999998836,4841",50,"scissors,scissors,scissors,scissors",100,12,0,type1,"pot,pot,pot,pot","knife,oven,fork,dish",80% type 1/20% type 3,38,59
+"4,0,0,1","true,true,true,true","4355.000000000116,2442.9999999998836,1525,1550",50,"find,find,find,find",100,12,0,type3,"lion,lion,lion,lion","exist,work,make,allow",80% type 1/20% type 3,55,60
+"100,100,7,98","true,true,true,true","3032,4368,1968,3967",50,"desk,desk,desk,desk",100,12,0,type1,"couch,couch,couch,couch","cabinet,cushion,door,chair",80% type 1/20% type 3,9,61
+"100,100,100,100","true,true,true,true","5583,2017.0000000001164,4602.999999999884,2640",50,"bike,bike,bike,bike",100,12,0,type1,"ship,ship,ship,ship","submarine,wagon,airplane,train",80% type 1/20% type 3,11,62
+"50,10,4,8","false,true,true,true","2646,8587,1983,3373",50,"toy,toy,toy,toy",100,12,0,type1,"hammer,hammer,hammer,hammer","radio,brush,doll,pen",80% type 1/20% type 3,12,63
+"100,97,90,19","true,true,true,true","5654,1651,1917,1190",50,"doll,doll,doll,doll",100,12,0,type1,"pen,pen,pen,pen","hammer,brush,radio,toy",80% type 1/20% type 3,33,64
+"0,6,50,13","true,true,false,true","8531.000000000116,5401.999999999884,5123,3502",50,"lion,lion,lion,lion",100,12,0,type1,"elephant,elephant,elephant,elephant","squirrel,fox,octopus,buffalo",80% type 1/20% type 3,28,65
+"1,100,100,1","true,true,true,true","4819,1608,5069,3181",50,"chair,chair,chair,chair",100,12,0,type1,"cabinet,cabinet,cabinet,cabinet","desk,couch,cushion,door",80% type 1/20% type 3,16,66

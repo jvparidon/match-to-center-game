@@ -1,0 +1,5 @@
+topword,middleword,bottomword,chosenword,percentage,trial_type,question,response,rt,session,points,trialnum,datetime
+,,,,,demographic,automatic user agent check,Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:108.0) Gecko/20100101 Firefox/108.0,,1,0,,2023-01-11T07:09:59.360Z
+,,,,,demographic,automatic user agent check,Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:108.0) Gecko/20100101 Firefox/108.0,,2,0,,2023-01-11T07:10:18.398Z
+deaf,an elephant,cheap,cheap,,trial,,,23653,1,0,2,2023-01-11T07:12:09.607Z
+to stand,cheap,an elephant,an elephant,,trial,,,5394,1,10,3,2023-01-11T07:12:15.001Z

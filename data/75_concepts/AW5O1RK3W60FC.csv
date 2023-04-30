@@ -1,0 +1,262 @@
+topword,middleword,bottomword,chosenword,percentage,trial_type,question,response,rt,session,points,trialnum,datetime
+,,,,,demographic,automatic user agent check,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",,1,0,,2023-01-11T08:25:37.112Z
+a crocodile,a whale,to dance,a crocodile,,trial,,,4144.299999999814,1,0,2,2023-01-11T08:26:39.054Z
+a whale,a crocodile,nasty,a whale,,trial,,,3705.399999999441,1,1,3,2023-01-11T08:26:42.760Z
+rattlesnake,bat,zebra,,41,feedback,,,21977.400000000373,1,2,4,2023-01-11T08:27:42.563Z
+,,,,,demographic,what is your age?,60,6045.100000000559,1,99,,2023-01-11T08:28:00.708Z
+thin,a fox,empty,thin,,trial,,,12660.400000000373,1,99,5,2023-01-11T08:28:13.370Z
+a fox,thin,a turtle,a fox,,trial,,,6425.700000000186,1,100,6,2023-01-11T08:28:19.795Z
+rooster,vulture,turtle,,84,feedback,,,8747.799999999814,1,101,7,2023-01-11T08:28:28.545Z
+,,,,,demographic,what is your gender?,female,3793,1,104,,2023-01-11T08:28:46.181Z
+to carry,good,a pig,to carry,,trial,,,7843.600000000559,1,104,8,2023-01-11T08:28:54.026Z
+good,to carry,to stand,to stand,,trial,,,5788.5,1,105,9,2023-01-11T08:28:59.814Z
+to run,to stand,to carry,to run,,trial,,,7687.5,1,115,10,2023-01-11T08:29:07.502Z
+to stand,to run,stupid,to stand,,trial,,,5063.299999999814,1,116,11,2023-01-11T08:29:12.565Z
+teach,cheap,chair,,13,feedback,,,17418.299999999814,1,117,12,2023-01-11T08:29:29.985Z
+,,,,,demographic,what languages do you speak?,English,9354.299999999814,1,168,,2023-01-11T08:29:48.370Z
+a squid,a rat,naked,a squid,,trial,,,8399.800000000745,1,168,13,2023-01-11T08:29:56.771Z
+a rat,a squid,to climb,a rat,,trial,,,3309.7999999998137,1,169,14,2023-01-11T08:30:00.081Z
+frog,seal,beaver,,0,feedback,,,3348.2000000001863,1,170,15,2023-01-11T08:30:03.432Z
+,,,,,demographic,what is the highest level ofeducation you have completed?,5_bachelor,4395.899999999441,1,173,,2023-01-11T08:30:07.832Z
+weak,an elephant,a squirrel,a squirrel,,trial,,,4267.5,1,173,16,2023-01-11T08:30:12.101Z
+stupid,a squirrel,an elephant,an elephant,,trial,,,4237.799999999814,1,183,17,2023-01-11T08:30:16.339Z
+message,thin,needle,,24,feedback,,,8659.700000000186,1,193,18,2023-01-11T08:30:25.001Z
+,,,,,demographic,what is your first/native language?,English,6129.100000000559,1,212,,2023-01-11T08:30:39.872Z
+a rabbit,a fox,a dolphin,a rabbit,,trial,,,5219.300000000745,1,212,19,2023-01-11T08:30:45.093Z
+a fox,a rabbit,to lay,a fox,,trial,,,4057.699999999255,1,213,20,2023-01-11T08:30:49.151Z
+pony,seal,perch,,62,feedback,,,6861.799999999814,1,214,21,2023-01-11T08:30:56.015Z
+,,,,,demographic,what country do you currently live in?,United States,7869.299999999814,1,289,,2023-01-11T08:31:08.411Z
+strong,a rat,to swim,strong,,trial,,,8825.700000000186,1,289,22,2023-01-11T08:31:17.238Z
+a rat,strong,to stand,to stand,,trial,,,4245.200000000186,1,290,23,2023-01-11T08:31:21.483Z
+to crawl,to stand,strong,to crawl,,trial,,,6816.299999999814,1,300,24,2023-01-11T08:31:28.299Z
+to stand,to crawl,an elephant,to stand,,trial,,,3116,1,301,25,2023-01-11T08:31:31.415Z
+cat,lamb,chicken,,18,feedback,,,8449.600000000559,1,302,26,2023-01-11T08:31:39.867Z
+,,,,,demographic,do you have any comments for us?,Thank you.,7805.299999999814,1,353,,2023-01-11T08:31:51.506Z
+to duck,to sit,to run,to duck,,trial,,,8451.5,1,353,27,2023-01-11T08:31:59.959Z
+to sit,to duck,to lay,to lay,,trial,,,4913.799999999814,1,354,28,2023-01-11T08:32:04.873Z
+an octopus,to lay,to duck,to duck,,trial,,,3661.2999999998137,1,364,29,2023-01-11T08:32:08.534Z
+goose,caribou,fox,,22,feedback,,,9189.599999999627,1,374,30,2023-01-11T08:32:17.726Z
+a dog,a frog,to climb,a dog,,trial,,,5326.9000000003725,1,390,31,2023-01-11T08:32:25.920Z
+a frog,a dog,a mosquito,a frog,,trial,,,3248.0999999996275,1,391,32,2023-01-11T08:32:29.169Z
+message,bed,choose,,31,feedback,,,8723.200000000186,1,392,33,2023-01-11T08:32:37.894Z
+to run,an octopus,a spider,a spider,,trial,,,6441.200000000186,1,425,34,2023-01-11T08:32:55.929Z
+to jump,a spider,an octopus,an octopus,,trial,,,4089.9000000003725,1,435,35,2023-01-11T08:33:00.018Z
+purple,boot,lose,,68,feedback,,,9844,1,445,36,2023-01-11T08:33:09.865Z
+sad,to swim,beautiful,beautiful,,trial,,,4291.0999999996275,1,541,37,2023-01-11T08:33:20.178Z
+a cow,beautiful,to swim,to swim,,trial,,,4198.200000000186,1,551,38,2023-01-11T08:33:24.376Z
+purple,disturb,dirt,,36,feedback,,,9515.700000000186,1,561,39,2023-01-11T08:33:33.894Z
+sad,a rat,a dolphin,a dolphin,,trial,,,4431.700000000186,1,631,40,2023-01-11T08:33:42.371Z
+a giraffe,a dolphin,a rat,a giraffe,,trial,,,8577.100000000559,1,641,41,2023-01-11T08:33:50.948Z
+a dolphin,a giraffe,to sit,a dolphin,,trial,,,3838.5,1,642,42,2023-01-11T08:33:54.786Z
+duck,caribou,camel,,3,feedback,,,4741.5,1,643,43,2023-01-11T08:33:59.530Z
+a crow,a lion,to stand,to stand,,trial,,,4275.5999999996275,1,644,44,2023-01-11T08:34:11.727Z
+powerful,to stand,a lion,powerful,,trial,,,4167.9000000003725,1,654,45,2023-01-11T08:34:15.895Z
+to stand,powerful,clever,clever,,trial,,,5561.399999999441,1,655,46,2023-01-11T08:34:21.456Z
+a dog,clever,powerful,powerful,,trial,,,3294.100000000559,1,665,47,2023-01-11T08:34:24.750Z
+gorilla,bat,rattlesnake,,1,feedback,,,4617.9000000003725,1,675,48,2023-01-11T08:34:29.370Z
+to hide,thin,stupid,to hide,,trial,,,6227.700000000186,1,682,49,2023-01-11T08:34:35.601Z
+thin,to hide,a dolphin,thin,,trial,,,3831.5,1,683,50,2023-01-11T08:34:39.433Z
+arm,message,forget,,15,feedback,,,9055.400000000373,1,684,51,2023-01-11T08:34:48.490Z
+a dog,a crocodile,a whale,a whale,,trial,,,5122.5,1,684,52,2023-01-11T08:35:01.240Z
+deaf,a whale,a crocodile,a crocodile,,trial,,,2981.7999999998137,1,694,53,2023-01-11T08:35:04.222Z
+tiger,bat,rattlesnake,,0,feedback,,,29265.700000000186,1,704,54,2023-01-11T08:35:33.490Z
+a crab,beautiful,a rat,a crab,,trial,,,6508.800000000745,1,710,55,2023-01-11T08:35:40.002Z
+beautiful,a crab,a spider,a spider,,trial,,,4485.299999999814,1,711,56,2023-01-11T08:35:44.488Z
+empty,a spider,a crab,a crab,,trial,,,4135.0999999996275,1,721,57,2023-01-11T08:35:48.623Z
+table,hear,soft,,14,feedback,,,9420.600000000559,1,731,58,2023-01-11T08:35:58.047Z
+a dolphin,to kick,good,a dolphin,,trial,,,7422.0999999996275,1,742,59,2023-01-11T08:36:05.471Z
+to kick,a dolphin,powerful,powerful,,trial,,,5559.200000000186,1,743,60,2023-01-11T08:36:11.031Z
+strong,powerful,a dolphin,strong,,trial,,,4705.100000000559,1,753,61,2023-01-11T08:36:15.736Z
+powerful,strong,gentle,powerful,,trial,,,3074.399999999441,1,754,62,2023-01-11T08:36:18.810Z
+pig,bat,alligator,,6,feedback,,,7412.299999999814,1,755,63,2023-01-11T08:36:26.225Z
+a zebra,a dog,a cat,a cat,,trial,,,2819.5999999996275,1,774,64,2023-01-11T08:36:49.363Z
+a pig,a cat,a dog,a dog,,trial,,,2365.5,1,784,65,2023-01-11T08:36:51.728Z
+mistake,meat,gentle,,75,feedback,,,5386.399999999441,1,794,66,2023-01-11T08:36:57.117Z
+a squirrel,a cow,a cow,a cow,,catch,,,3051.199999999255,1,796,67,2023-01-11T08:37:04.920Z
+orange,item,clothes,,12,feedback,,,6679.700000000186,1,806,68,2023-01-11T08:37:11.602Z
+a crab,a tiger,gentle,a crab,,trial,,,4343.5,1,806,69,2023-01-11T08:37:15.949Z
+a tiger,a crab,a turtle,a turtle,,trial,,,3245.5,1,807,70,2023-01-11T08:37:19.194Z
+a pig,a turtle,a crab,a crab,,trial,,,3038.4000000003725,1,817,71,2023-01-11T08:37:22.233Z
+message,business,child,,97,feedback,,,4608.299999999814,1,827,72,2023-01-11T08:37:26.843Z
+sad,a mouse,to sit,sad,,trial,,,11447.099999999627,1,827,73,2023-01-11T08:37:40.508Z
+a mouse,sad,soft,soft,,trial,,,5047.100000000559,1,828,74,2023-01-11T08:37:45.555Z
+to walk,soft,sad,sad,,trial,,,3441.199999999255,1,838,75,2023-01-11T08:37:48.996Z
+weak,dish,thin,,20,feedback,,,5224.199999999255,1,848,76,2023-01-11T08:37:54.223Z
+to run,a frog,to kick,to run,,trial,,,3517.0999999996275,1,849,77,2023-01-11T08:38:02.998Z
+a frog,to run,to crawl,to crawl,,trial,,,3528.100000000559,1,850,78,2023-01-11T08:38:06.526Z
+a mouse,to crawl,to run,to run,,trial,,,2686.2999999998137,1,860,79,2023-01-11T08:38:09.212Z
+ground,choose,powerful,,90,feedback,,,13329,1,870,80,2023-01-11T08:38:22.544Z
+cheap,cheap,weak,cheap,,catch,,,2171.300000000745,1,870,81,2023-01-11T08:38:27.176Z
+word,source,purple,,82,feedback,,,5347.5999999996275,1,871,82,2023-01-11T08:38:32.526Z
+to dance,a pig,an octopus,an octopus,,trial,,,7212.0999999996275,1,872,83,2023-01-11T08:38:45.780Z
+to crawl,an octopus,a pig,a pig,,trial,,,4336.4000000003725,1,882,84,2023-01-11T08:38:50.117Z
+peacock,chimp,hare,,17,feedback,,,9311.599999999627,1,892,85,2023-01-11T08:38:59.430Z
+beautiful,a mouse,to sit,to sit,,trial,,,12661.700000000186,1,905,86,2023-01-11T08:39:21.727Z
+famous,to sit,a mouse,famous,,trial,,,25085.5,1,915,87,2023-01-11T08:39:46.812Z
+to sit,famous,clever,clever,,trial,,,5186.5999999996275,1,916,88,2023-01-11T08:39:51.999Z
+a zebra,clever,famous,famous,,trial,,,2772,1,926,89,2023-01-11T08:39:54.771Z
+crocodile,dolphin,goat,,71,feedback,,,26222.599999999627,1,936,90,2023-01-11T08:40:20.997Z
+a frog,sad,to sit,to sit,,trial,,,3199.7999999998137,1,967,91,2023-01-11T08:40:29.779Z
+to duck,to sit,sad,sad,,trial,,,4639.700000000186,1,977,92,2023-01-11T08:40:34.419Z
+cat,camel,rattlesnake,,81,feedback,,,5813.4000000003725,1,987,93,2023-01-11T08:40:40.235Z
+weak,a crocodile,to jump,to jump,,trial,,,3673.5,1,999,94,2023-01-11T08:40:47.149Z
+nasty,to jump,a crocodile,a crocodile,,trial,,,3900.5,1,1009,95,2023-01-11T08:40:51.049Z
+lobster,dolphin,cougar,,100,feedback,,,2979.199999999255,1,1019,96,2023-01-11T08:40:54.030Z
+a squirrel,ripe,a seal,a seal,,trial,,,5401.700000000186,1,1026,97,2023-01-11T08:41:03.981Z
+last,a seal,ripe,ripe,,trial,,,2880.0999999996275,1,1036,98,2023-01-11T08:41:06.861Z
+frog,dolphin,elk,,74,feedback,,,4927.299999999814,1,1046,99,2023-01-11T08:41:11.791Z
+a fox,to hide,to dive,to dive,,trial,,,3892.699999999255,1,1080,100,2023-01-11T08:41:22.386Z
+a pig,to dive,to hide,to hide,,trial,,,2834.600000000559,1,1090,101,2023-01-11T08:41:25.221Z
+beaver,cat,chicken,,83,feedback,,,5035.399999999441,1,1100,102,2023-01-11T08:41:30.259Z
+naked,a giraffe,a cow,a cow,,trial,,,5426.399999999441,1,1114,103,2023-01-11T08:41:38.885Z
+sad,a cow,a giraffe,a giraffe,,trial,,,2500,1,1124,104,2023-01-11T08:41:41.385Z
+naked,money,needle,,30,feedback,,,17975.700000000186,1,1134,105,2023-01-11T08:41:59.363Z
+cheap,a squid,to swim,to swim,,trial,,,4811.399999999441,1,1137,106,2023-01-11T08:42:06.363Z
+to run,to swim,a squid,a squid,,trial,,,6066,1,1147,107,2023-01-11T08:42:12.429Z
+shirt,cheap,word,,95,feedback,,,4583.799999999814,1,1157,108,2023-01-11T08:42:17.015Z
+naked,an octopus,to crawl,to crawl,,trial,,,13789.700000000186,1,1194,109,2023-01-11T08:42:33.975Z
+to sit,to crawl,an octopus,an octopus,,trial,,,10256.399999999441,1,1204,110,2023-01-11T08:42:44.231Z
+sheep,gorilla,crocodile,,86,feedback,,,9932.700000000186,1,1214,111,2023-01-11T08:42:54.166Z
+a seal,deaf,a squid,a seal,,trial,,,13414.299999999814,1,1227,112,2023-01-11T08:43:07.583Z
+deaf,a seal,to jump,to jump,,trial,,,13282.100000000559,1,1228,113,2023-01-11T08:43:20.865Z
+an octopus,to jump,a seal,a seal,,trial,,,5667.899999999441,1,1238,114,2023-01-11T08:43:26.533Z
+turtle,dolphin,cougar,,79,feedback,,,13193.400000000373,1,1248,115,2023-01-11T08:43:39.729Z
+a snake,a cat,a cat,a cat,,catch,,,3027.5,1,1273,116,2023-01-11T08:43:44.914Z
+dish,people,shoe,,14,feedback,,,6383.5,1,1283,117,2023-01-11T08:43:51.300Z
+sick,to lay,to sit,to sit,,trial,,,13743.700000000186,1,1283,118,2023-01-11T08:44:07.395Z
+an octopus,to sit,to lay,to lay,,trial,,,2919.9000000003725,1,1293,119,2023-01-11T08:44:10.315Z
+deceive,needle,money,,32,feedback,,,22441.599999999627,1,1303,120,2023-01-11T08:44:32.758Z
+deaf,sad,a cow,deaf,,trial,,,3837.899999999441,1,1306,121,2023-01-11T08:44:39.213Z
+sad,deaf,a frog,sad,,trial,,,2989.5,1,1307,122,2023-01-11T08:44:42.203Z
+rattlesnake,tiger,dolphin,,18,feedback,,,7409.299999999814,1,1308,123,2023-01-11T08:44:49.615Z
+a fox,a seal,to duck,to duck,,trial,,,4483.700000000186,1,1335,124,2023-01-11T08:45:05.515Z
+to carry,to duck,a seal,a seal,,trial,,,16545.89999999944,1,1345,125,2023-01-11T08:45:22.061Z
+crocodile,lion,bat,,89,feedback,,,13341,1,1355,126,2023-01-11T08:45:35.404Z
+ripe,cheap,bad,bad,,trial,,,3883.4000000003725,1,1372,127,2023-01-11T08:45:41.267Z
+an octopus,bad,cheap,cheap,,trial,,,2413.899999999441,1,1382,128,2023-01-11T08:45:43.681Z
+believe,truth,forget,,85,feedback,,,4748.0999999996275,1,1392,129,2023-01-11T08:45:48.431Z
+a snake,ripe,thick,thick,,trial,,,10419.100000000559,1,1392,130,2023-01-11T08:46:03.583Z
+a lion,thick,ripe,ripe,,trial,,,172.3999999994412,1,1402,131,2023-01-11T08:46:03.755Z
+frog,dolphin,deer,,96,feedback,,,2947.100000000559,1,1412,132,2023-01-11T08:46:06.705Z
+a squid,naked,to stand,to stand,,trial,,,5185.5999999996275,1,1426,133,2023-01-11T08:46:13.806Z
+sick,to stand,naked,naked,,trial,,,10092.900000000373,1,1436,134,2023-01-11T08:46:23.899Z
+sheep,cow,rooster,,100,feedback,,,4099.4000000003725,1,1446,135,2023-01-11T08:46:28.001Z
+a crocodile,a mosquito,full,a crocodile,,trial,,,8570.699999999255,1,1448,136,2023-01-11T08:46:43.901Z
+a mosquito,a crocodile,beautiful,a mosquito,,trial,,,3862.600000000559,1,1449,137,2023-01-11T08:46:47.763Z
+yellow,lose,thigh,,15,feedback,,,5750.9000000003725,1,1450,138,2023-01-11T08:46:53.516Z
+to swim,a seal,a horse,a horse,,trial,,,3106.7000000001863,1,1450,139,2023-01-11T08:46:58.812Z
+a rabbit,a horse,a seal,a rabbit,,trial,,,10643.600000000559,1,1460,140,2023-01-11T08:47:09.455Z
+a horse,a rabbit,cheap,a horse,,trial,,,4298.799999999814,1,1461,141,2023-01-11T08:47:13.754Z
+speak,cheap,melt,,16,feedback,,,10272.400000000373,1,1462,142,2023-01-11T08:47:24.028Z
+a chicken,stupid,stupid,stupid,,catch,,,3534.800000000745,1,1469,143,2023-01-11T08:47:33.507Z
+carry,pain,weight,,75,feedback,,,9980,1,1479,144,2023-01-11T08:47:43.489Z
+powerful,to swim,to walk,to walk,,trial,,,3301.399999999441,1,1521,145,2023-01-11T08:47:49.896Z
+a crow,to walk,to swim,to swim,,trial,,,2600.2000000001863,1,1531,146,2023-01-11T08:47:52.496Z
+beaver,coyote,iguana,,93,feedback,,,14490.099999999627,1,1541,147,2023-01-11T08:48:06.989Z
+to hide,a cow,a squid,a squid,,trial,,,3907.7000000001863,1,1547,148,2023-01-11T08:48:13.240Z
+a rabbit,a squid,a cow,a cow,,trial,,,3611.5999999996275,1,1557,149,2023-01-11T08:48:16.851Z
+money,ground,brown,,18,feedback,,,6499.799999999814,1,1567,150,2023-01-11T08:48:23.354Z
+nasty,good,a dolphin,nasty,,trial,,,3326,1,1568,151,2023-01-11T08:48:31.919Z
+good,nasty,last,good,,trial,,,2686.0999999996275,1,1569,152,2023-01-11T08:48:34.605Z
+rattlesnake,cougar,chimp,,26,feedback,,,21518.39999999944,1,1570,153,2023-01-11T08:48:56.125Z
+good,to walk,to hide,to hide,,trial,,,6883.299999999814,1,1589,154,2023-01-11T08:49:18.054Z
+thin,to hide,to walk,to walk,,trial,,,2903.9000000003725,1,1599,155,2023-01-11T08:49:20.958Z
+crab,dolphin,mouse,,78,feedback,,,3961.0999999996275,1,1609,156,2023-01-11T08:49:24.921Z
+a worm,to dance,an elephant,a worm,,trial,,,23884.700000000186,1,1633,157,2023-01-11T08:49:50.915Z
+to dance,a worm,fresh,fresh,,trial,,,4680.100000000559,1,1634,158,2023-01-11T08:49:55.595Z
+a pigeon,fresh,a worm,a pigeon,,trial,,,23197.199999999255,1,1644,159,2023-01-11T08:50:18.793Z
+fresh,a pigeon,a cow,a cow,,trial,,,4492.600000000559,1,1645,160,2023-01-11T08:50:23.285Z
+weak,a cow,a pigeon,a pigeon,,trial,,,2717.7999999998137,1,1655,161,2023-01-11T08:50:26.003Z
+coyote,dog,turkey,,91,feedback,,,6179.5,1,1665,162,2023-01-11T08:50:32.185Z
+a giraffe,a crab,a rabbit,a rabbit,,trial,,,17396.800000000745,1,1666,163,2023-01-11T08:50:49.585Z
+a frog,a rabbit,a crab,a frog,,trial,,,8773.199999999255,1,1676,164,2023-01-11T08:50:58.358Z
+a rabbit,a frog,a whale,a rabbit,,trial,,,16452.400000000373,1,1677,165,2023-01-11T08:51:14.811Z
+green,table,red,,30,feedback,,,17920.89999999944,1,1678,166,2023-01-11T08:51:32.734Z
+to carry,good,a rat,to carry,,trial,,,4537.200000000186,1,1712,167,2023-01-11T08:51:57.749Z
+good,to carry,a pig,good,,trial,,,3815.2999999998137,1,1713,168,2023-01-11T08:52:01.564Z
+horse,cougar,alligator,,82,feedback,,,3096.2000000001863,1,1714,169,2023-01-11T08:52:04.663Z
+a wolf,a tiger,a crocodile,a wolf,,trial,,,7374.600000000559,1,1729,170,2023-01-11T08:52:15.245Z
+a tiger,a wolf,strong,a tiger,,trial,,,3160.199999999255,1,1730,171,2023-01-11T08:52:18.406Z
+iguana,camel,lamb,,28,feedback,,,27876.799999999814,1,1731,172,2023-01-11T08:52:46.284Z
+a squid,a nest,to carry,to carry,,trial,,,12659.5,1,1745,173,2023-01-11T08:53:03.585Z
+an octopus,to carry,a nest,a nest,,trial,,,11382.299999999814,1,1755,174,2023-01-11T08:53:14.967Z
+coyote,seal,perch,,15,feedback,,,14103.700000000186,1,1765,175,2023-01-11T08:53:29.074Z
+a chicken,to jump,fresh,fresh,,trial,,,12716.599999999627,1,1792,176,2023-01-11T08:53:44.477Z
+an octopus,fresh,to jump,to jump,,trial,,,19251.700000000186,1,1802,177,2023-01-11T08:54:03.729Z
+thick,message,bed,,69,feedback,,,10741,1,1812,178,2023-01-11T08:54:14.472Z
+a dolphin,to sit,full,full,,trial,,,7069.5,1,1815,179,2023-01-11T08:54:25.340Z
+last,full,to sit,to sit,,trial,,,9388.299999999814,1,1825,180,2023-01-11T08:54:34.729Z
+grow,choose,life,,5,feedback,,,9059.299999999814,1,1835,181,2023-01-11T08:54:43.790Z
+a nest,to carry,to duck,a nest,,trial,,,3713.5,1,1841,182,2023-01-11T08:55:03.192Z
+to carry,a nest,to jump,to carry,,trial,,,2888.2000000001863,1,1842,183,2023-01-11T08:55:06.081Z
+dolphin,horse,chicken,,0,feedback,,,2783.7000000001863,1,1843,184,2023-01-11T08:55:08.866Z
+a worm,to lay,clever,a worm,,trial,,,5883.0999999996275,1,1855,185,2023-01-11T08:55:14.752Z
+to lay,a worm,soft,to lay,,trial,,,3168.7000000001863,1,1856,186,2023-01-11T08:55:17.921Z
+chicken,dog,bat,,80,feedback,,,15249.199999999255,1,1857,187,2023-01-11T08:55:33.172Z
+a lizard,to crawl,bad,a lizard,,trial,,,6186.399999999441,1,1882,188,2023-01-11T08:55:39.362Z
+to crawl,a lizard,a squirrel,a squirrel,,trial,,,10728,1,1883,189,2023-01-11T08:55:50.090Z
+good,a squirrel,a lizard,a lizard,,trial,,,3697.7000000001863,1,1893,190,2023-01-11T08:55:53.787Z
+alligator,dolphin,gorilla,,16,feedback,,,5992,1,1903,191,2023-01-11T08:55:59.782Z
+to swim,to stand,a horse,a horse,,trial,,,15147.399999999441,1,1946,192,2023-01-11T08:56:24.804Z
+an elephant,a horse,to stand,an elephant,,trial,,,3525.2999999998137,1,1956,193,2023-01-11T08:56:28.330Z
+a horse,an elephant,a whale,a whale,,trial,,,10247.100000000559,1,1957,194,2023-01-11T08:56:38.577Z
+a spider,a whale,an elephant,an elephant,,trial,,,7277.899999999441,1,1967,195,2023-01-11T08:56:45.855Z
+vulture,peacock,turtle,,100,feedback,,,3982.7999999998137,1,1977,196,2023-01-11T08:56:49.840Z
+a rabbit,to hide,to climb,to climb,,trial,,,6890.5,1,1978,197,2023-01-11T08:56:59.532Z
+stupid,to climb,to hide,to hide,,trial,,,2514,1,1988,198,2023-01-11T08:57:02.046Z
+money,nose,arm,,0,feedback,,,3530.600000000559,1,1998,199,2023-01-11T08:57:05.579Z
+a fox,a fish,cheap,a fox,,trial,,,16308,1,1998,200,2023-01-11T08:57:21.891Z
+a fish,a fox,weak,a fish,,trial,,,3423.2000000001863,1,1999,201,2023-01-11T08:57:25.314Z
+crab,dolphin,chimp,,91,feedback,,,7175.9000000003725,1,2000,202,2023-01-11T08:57:32.492Z
+sad,a mosquito,a crocodile,a crocodile,,trial,,,7161.5,1,2015,203,2023-01-11T08:57:43.307Z
+good,a crocodile,a mosquito,a mosquito,,trial,,,3431.5,1,2025,204,2023-01-11T08:57:46.738Z
+turkey,goat,beaver,,0,feedback,,,5572.4000000003725,1,2035,205,2023-01-11T08:57:52.312Z
+a frog,a pig,clever,a frog,,trial,,,13525.399999999441,1,2041,206,2023-01-11T08:58:05.840Z
+a pig,a frog,a snake,a snake,,trial,,,12797.799999999814,1,2042,207,2023-01-11T08:58:18.638Z
+other,a snake,a frog,a frog,,trial,,,3556.5,1,2052,208,2023-01-11T08:58:22.195Z
+sheep,chimp,peacock,,100,feedback,,,4941.300000000745,1,2062,209,2023-01-11T08:58:27.138Z
+to dance,a zebra,a squid,a squid,,trial,,,19965.5,1,2065,210,2023-01-11T08:58:50.569Z
+a lizard,a squid,a zebra,a lizard,,trial,,,3829.7000000001863,1,2075,211,2023-01-11T08:58:54.398Z
+a squid,a lizard,a giraffe,a giraffe,,trial,,,3401.7000000001863,1,2076,212,2023-01-11T08:58:57.800Z
+clever,a giraffe,a lizard,a lizard,,trial,,,10915,1,2086,213,2023-01-11T08:59:08.715Z
+weak,carry,source,,13,feedback,,,18163,1,2096,214,2023-01-11T08:59:26.880Z
+to hide,clever,to kick,to hide,,trial,,,4855.5,1,2147,215,2023-01-11T08:59:31.739Z
+clever,to hide,a chicken,clever,,trial,,,3192,1,2148,216,2023-01-11T08:59:34.931Z
+life,hear,sell,,66,feedback,,,12612.799999999814,1,2149,217,2023-01-11T08:59:47.547Z
+a nest,an elephant,an elephant,an elephant,,catch,,,3149,1,2247,218,2023-01-11T08:59:50.699Z
+mouse,seal,turtle,,0,feedback,,,4239.200000000186,1,2257,219,2023-01-11T08:59:54.940Z
+a squirrel,a crow,weak,a squirrel,,trial,,,3495.600000000559,1,2263,220,2023-01-11T09:00:01.830Z
+a crow,a squirrel,a dolphin,a dolphin,,trial,,,4592.200000000186,1,2264,221,2023-01-11T09:00:06.423Z
+ripe,a dolphin,a squirrel,a squirrel,,trial,,,3363.5,1,2274,222,2023-01-11T09:00:09.786Z
+hair,arm,nose,,15,feedback,,,4411.700000000186,1,2284,223,2023-01-11T09:00:14.201Z
+a lion,to climb,a seal,a seal,,trial,,,5882.600000000559,1,2284,224,2023-01-11T09:00:20.086Z
+a horse,a seal,to climb,a horse,,trial,,,4450.699999999255,1,2294,225,2023-01-11T09:00:24.537Z
+a seal,a horse,a pig,a pig,,trial,,,4063.4000000003725,1,2295,226,2023-01-11T09:00:28.600Z
+cheap,a pig,a horse,a horse,,trial,,,2546.9000000003725,1,2305,227,2023-01-11T09:00:31.147Z
+turkey,penguin,seal,,0,feedback,,,2995.199999999255,1,2315,228,2023-01-11T09:00:34.144Z
+last,to walk,a giraffe,a giraffe,,trial,,,9909.599999999627,1,2325,229,2023-01-11T09:00:50.187Z
+clever,a giraffe,to walk,to walk,,trial,,,2235.9000000003725,1,2335,230,2023-01-11T09:00:52.423Z
+beaver,cougar,crocodile,,88,feedback,,,2876.7999999988824,1,2345,231,2023-01-11T09:00:55.302Z
+an octopus,beautiful,to dance,to dance,,trial,,,3527.699999999255,1,2358,232,2023-01-11T09:01:01.328Z
+a pig,to dance,beautiful,beautiful,,trial,,,2186.5999999996275,1,2368,233,2023-01-11T09:01:03.515Z
+lion,dolphin,perch,,17,feedback,,,4327.799999998882,1,2378,234,2023-01-11T09:01:07.845Z
+a rabbit,a whale,deaf,a rabbit,,trial,,,5741.9000000003725,1,2402,235,2023-01-11T09:01:13.590Z
+a whale,a rabbit,to dive,a whale,,trial,,,3766.4000000003725,1,2403,236,2023-01-11T09:01:17.357Z
+table,woman,sick,,37,feedback,,,5409.5,1,2404,237,2023-01-11T09:01:22.768Z
+powerful,to carry,to sit,to sit,,trial,,,6101.4000000003725,1,2409,238,2023-01-11T09:01:31.018Z
+weak,to sit,to carry,to carry,,trial,,,2110.699999999255,1,2419,239,2023-01-11T09:01:33.129Z
+gorilla,pig,rooster,,83,feedback,,,3966.800000000745,1,2429,240,2023-01-11T09:01:37.098Z
+a seal,to carry,a dolphin,a seal,,trial,,,4514,1,2454,241,2023-01-11T09:01:41.615Z
+to carry,a seal,a lizard,a lizard,,trial,,,2963.5,1,2455,242,2023-01-11T09:01:44.578Z
+a crow,a lizard,a seal,a seal,,trial,,,3076.2999999988824,1,2465,243,2023-01-11T09:01:47.655Z
+believe,shoe,arm,,73,feedback,,,4395.200000001118,1,2475,244,2023-01-11T09:01:52.052Z
+powerful,bad,to sit,to sit,,trial,,,3706.5999999996275,1,2514,245,2023-01-11T09:01:57.775Z
+last,to sit,bad,bad,,trial,,,2871.4000000003725,1,2524,246,2023-01-11T09:02:00.646Z
+seek,melt,cheap,,22,feedback,,,5079.300000000745,1,2534,247,2023-01-11T09:02:05.728Z
+stupid,a cat,thin,thin,,trial,,,5517.5,1,2581,248,2023-01-11T09:02:11.248Z
+powerful,thin,a cat,a cat,,trial,,,11401.900000000373,1,2591,249,2023-01-11T09:02:22.650Z
+money,nose,arm,,0,feedback,,,3095.5999999996275,1,2601,250,2023-01-11T09:02:25.748Z
+cheap,famous,a rat,a rat,,trial,,,5127.5999999996275,1,2601,251,2023-01-11T09:02:30.879Z
+bad,a rat,famous,bad,,trial,,,3057.5,1,2611,252,2023-01-11T09:02:33.936Z
+a rat,bad,to carry,a rat,,trial,,,3147.0999999996275,1,2612,253,2023-01-11T09:02:37.083Z
+,,,,,cap,completion_code,1f5mfm1m237lk,,1,2613,253,2023-01-11T09:03:41.106Z
